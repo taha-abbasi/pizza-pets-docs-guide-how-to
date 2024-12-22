@@ -26,7 +26,7 @@ Think of Pizza as the trusty **Bitcoin** of pet feeding—reliable and always th
 ### 🍺 Beer
 - **Effect:** Gains **+2 hearts ❤️❤️**.  
 - **Side Effect:** Increases chance of **💩 poop** by **69%**.  
-- **Perfect For:** A big heart boost, but tread carefully—this is the **Ethereum** of feeding mechanics, powerful but sometimes unpredictable.
+- **Perfect For:** A big heart boost, but tread carefully—this is the **Pump.fun** of feeding mechanics, powerful but sometimes unpredictable.
 
 ---
 
