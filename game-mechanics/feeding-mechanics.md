@@ -1,11 +1,10 @@
-# 🎮 Feeding Mechanics
+# 🍕 Feeding Mechanics
 
 ## The Heart of the Matter 💔
 
-In the world of Pizza Pets, **hearts are life**—literally. Pets lose **1 heart ❤️ per day** in normal circumstances, but under certain conditions, this rate can increase. For example:
-
-* **💩 Uncleaned poop** boosts the heart loss rate to **1.4 hearts ❤️ per day** for each poop.
-* **💪 Steroids** can also accelerate heart decline (we’ll cover this in Advanced Strategies).
+In the world of Pizza Pets, **hearts are life**—literally. Pets lose **1 heart ❤️ per day** in normal circumstances, but under certain conditions, this rate can increase. For example:  
+- **💩 Uncleaned poop** boosts the heart loss rate to **1.4 hearts ❤️ per day** for each poop.  
+- **💪 Steroids** can also accelerate heart decline (we’ll cover this in Advanced Strategies).  
 
 Thankfully, there are ways to reduce heart loss too. Ever heard of a pet that loves **☕ coffee** and **🌿 weed**? Yep, these special items can slow down heart loss, but again, that’s for the **Advanced Strategies** section. For now, let’s talk about how to keep your pets alive and kicking with proper feeding!
 
@@ -16,64 +15,57 @@ Thankfully, there are ways to reduce heart loss too. Ever heard of a pet that lo
 Your Pizza Pets don’t ask for much—just a steady diet of **Pizza** and **Beer**. Both are lifesavers, but they come with their own quirks. Let’s dig in:
 
 ### 🍕 Pizza
-
-* **Effect:** Gains **+1 heart ❤️**.
-* **Side Effect:** Increases chance of **💩 poop** by **23%**.
-* **Perfect For:** A small, safe heart boost with lower poop risk.
+- **Effect:** Gains **+1 heart ❤️**.  
+- **Side Effect:** Increases chance of **💩 poop** by **23%**.  
+- **Perfect For:** A small, safe heart boost with lower poop risk.  
 
 Think of Pizza as the trusty **Bitcoin** of pet feeding—reliable and always there for you when times are tough.
 
-***
+---
 
 ### 🍺 Beer
+- **Effect:** Gains **+2 hearts ❤️❤️**.  
+- **Side Effect:** Increases chance of **💩 poop** by **69%**.  
+- **Perfect For:** A big heart boost, but tread carefully—this is the **Pump.fun** of feeding mechanics, powerful but sometimes unpredictable.
 
-* **Effect:** Gains **+2 hearts ❤️❤️**.
-* **Side Effect:** Increases chance of **💩 poop** by **69%**.
-* **Perfect For:** A big heart boost, but tread carefully—this is the **Pump.fun** of feeding mechanics, powerful but sometimes unpredictable.
-
-***
+---
 
 ## Watching for Poop 💩
 
 Feeding your pet is only half the battle; you’ve got to keep an eye out for poop. Here’s how it works based on your pet’s **evolution stage**:
 
 ### Baby Stage 🍼
-
-* If a baby pet poops after a feed, it happens **immediately**. No waiting, no suspense.
-* If the baby **doesn’t poop immediately**, you’re in the clear until the next feed.
+- If a baby pet poops after a feed, it happens **immediately**. No waiting, no suspense.  
+- If the baby **doesn’t poop immediately**, you’re in the clear until the next feed.  
 
 Baby pets are like **free & fair crypto tokens like $DOG**—what you see is what you get. No hidden surprises!
 
-***
+---
 
 ### Child, Teen, and Adult Stages 🧒🧑🦸‍♂️
-
-* In these stages, pets can poop **randomly within 7 days** of being fed.
-* You’ll need to **watch for the 💩 poop icon** on your pet and clean it as soon as it appears.
+- In these stages, pets can poop **randomly within 7 days** of being fed.  
+- You’ll need to **watch for the 💩 poop icon** on your pet and clean it as soon as it appears.
 
 These stages are a bit more unpredictable—kind of like **corporate venture-backed and insider and special interest infested meme coins** on the market. You never know when things are going to go south, so stay vigilant!
 
-***
+---
 
 ## The Consequences of Poop 🤢
 
-Poop isn’t just gross—it’s dangerous. Here’s why:
-
-* When a pet poops, its **heart loss rate increases to 1.4 hearts ❤️💕 per day**.
-* Poops can **stack**, meaning each additional poop multiplies the heart loss rate. For example:
-  * **1 poop = 1.4 hearts ❤️💕/day**
-  * **2 poops = 2.8 hearts ❤️❤️💕/day**
-  * **3 poops = 4.2 hearts ❤️❤️❤️❤️💕/day**
+Poop isn’t just gross—it’s dangerous. Here’s why:  
+- When a pet poops, its **heart loss rate increases to 1.4 hearts ❤️💕 per day**.  
+- Poops can **stack**, meaning each additional poop multiplies the heart loss rate. For example:  
+  - **1 poop = 1.4 hearts ❤️💕/day**  
+  - **2 poops = 2.8 hearts ❤️❤️💕/day**  
+  - **3 poops = 4.2 hearts ❤️❤️❤️❤️💕/day**  
 
 Letting poop stack is like leaving your Bitcoin private keys unguarded—it’s a disaster waiting to happen. **Satoshi would never do that, why would you?**
 
-***
+---
 
-## Why Poop Management Matters 🚿
+## Watch the Video Guide 🎥
 
-Keeping an eye on poop and cleaning it promptly is crucial to your pet’s survival. Think of it as maintaining your **crypto portfolio**—regular attention and action keep things from falling apart. Or, if you’re just a chill guy or gal, then you may want to lean on those **advanced techniques** to protect against heart decline. Either way, clean pets are happy pets.
-
-***
+If you'd like a step-by-step walkthrough of feeding mechanics, check out this video guide:
 
 {% embed url="https://youtu.be/U3C5PlKuUGI?si=Fs9P0rM6Tr0--CfX" %}
 
