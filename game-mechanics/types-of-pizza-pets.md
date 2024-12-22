@@ -72,7 +72,15 @@ Cuteness overload! **Fluffypuff** is as soft and huggable as it sounds. Don’t 
 
 Diving into the deep, **Aquafin** is the master of all things aquatic. Its sleek design makes it a showstopper in any collection.
 
-_Placeholder for Aquafin image_
+{% tabs %}
+{% tab title="Aquafin" %}
+<div align="center"><figure><img src="../.gitbook/assets/Aquafin.png" alt="" width="375"><figcaption><p>Aquafin</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Aquafin - Video" %}
+{% embed url="https://go.screenpal.com/watch/cZl3iUneeUE" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
