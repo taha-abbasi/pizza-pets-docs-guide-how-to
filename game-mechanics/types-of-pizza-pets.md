@@ -54,7 +54,15 @@ Meet **Terrapod**, the grounded protector with a shell tough enough to withstand
 
 Cuteness overload! **Fluffypuff** is as soft and huggable as it sounds. Don’t let its fluff fool you—it’s a survivor!
 
-_Placeholder for Fluffypuff image_
+{% tabs %}
+{% tab title="Fluffypuff" %}
+<div align="center"><figure><img src="../.gitbook/assets/Fluffypuff.png" alt="" width="375"><figcaption><p>Fluffypuff</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Fluffypuff - Video" %}
+{% embed url="https://somup.com/cZl3ird0b0" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
