@@ -88,7 +88,15 @@ Diving into the deep, **Aquafin** is the master of all things aquatic. Its sleek
 
 Born from the depths of the earth, **Coalvim** is as solid as a rock. This pet symbolizes strength and resilience.
 
-_Placeholder for Coalvim image_
+{% tabs %}
+{% tab title="Coalvim" %}
+<div align="center"><figure><img src="../.gitbook/assets/Coalvim.png" alt="" width="375"><figcaption><p>Coalvim</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Coalvim - Video" %}
+{% embed url="https://somup.com/cZl3iCd0bm" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
@@ -98,7 +106,15 @@ _Placeholder for Coalvim image_
 
 Hot-headed and full of flair, **Flamora** lights up the competition with its fiery spirit and blazing charm.
 
-_Placeholder for Flamora image_
+{% tabs %}
+{% tab title="Flamora" %}
+<div align="center"><figure><img src="../.gitbook/assets/Flamora.png" alt="" width="375"><figcaption><p>Flamora</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Flamora - Video" %}
+{% embed url="https://somup.com/cZl3i9d0Fc" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
@@ -108,7 +124,15 @@ _Placeholder for Flamora image_
 
 Cold and calculating, **Frostfang** is the icy beast you want on your side. Its frosty demeanor is matched only by its sharp instincts.
 
-_Placeholder for Frostfang image_
+{% tabs %}
+{% tab title="Frostfang" %}
+<div align="center"><figure><img src="../.gitbook/assets/Frostfang.png" alt="" width="375"><figcaption><p>Frostfang</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Frostfang - Video" %}
+{% embed url="https://somup.com/cZl3jjd0Fj" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
@@ -118,7 +142,15 @@ _Placeholder for Frostfang image_
 
 Charged with energy, **Electroid** is the spark of any collection. Its electrifying personality keeps things lively and exciting.
 
-_Placeholder for Electroid image_
+{% tabs %}
+{% tab title="Electroid" %}
+<div align="center"><figure><img src="../.gitbook/assets/Electroid.png" alt="" width="375"><figcaption><p>Electroid</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Electroid - Video" %}
+{% embed url="https://go.screenpal.com/watch/cZl3j2neewo" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
@@ -128,7 +160,15 @@ _Placeholder for Electroid image_
 
 Radiating warmth and positivity, **Sunbloom** is the cheerful companion everyone needs. It’s sunshine in pet form!
 
-_Placeholder for Sunbloom image_
+{% tabs %}
+{% tab title="Sunbloom" %}
+<div align="center"><figure><img src="../.gitbook/assets/Sunbloom.png" alt="" width="375"><figcaption><p>Sunbloom</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Sunbloom - Video" %}
+{% embed url="https://go.screenpal.com/watch/cZl3j3neewp" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
@@ -138,7 +178,15 @@ _Placeholder for Sunbloom image_
 
 With a sleek, industrial vibe, **Petroil** is the embodiment of raw power and efficiency. This one’s a true machine of survival.
 
-_Placeholder for Petroil image_
+{% tabs %}
+{% tab title="Petroil" %}
+<div align="center"><figure><img src="../.gitbook/assets/Petroil.png" alt="" width="375"><figcaption><p>Petroil</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Petroil - Video" %}
+{% embed url="https://somup.com/cZl3jUd0Fz" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
@@ -148,7 +196,15 @@ _Placeholder for Petroil image_
 
 Swift and graceful, **Galewing** is the aerial ace of Pizza Pets. Its mastery of the skies is unmatched.
 
-_Placeholder for Galewing image_
+{% tabs %}
+{% tab title="Galewing" %}
+<div align="center"><figure><img src="../.gitbook/assets/Galewing.png" alt="" width="375"><figcaption><p>Galewing</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Galewing - Video" %}
+{% embed url="https://go.screenpal.com/watch/cZl3j4neexY" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
