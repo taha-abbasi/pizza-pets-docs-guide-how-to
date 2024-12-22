@@ -11,7 +11,9 @@ Pizza Pets are as unique as a perfectly crafted pizza—each one with its own fl
 ### Description:
 The legendary **Mythtail** is a creature of myths and legends, shrouded in mystery and awe. Its elegant design makes it a collector's favorite.
 
-*Placeholder for Mythtail image*
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/3ec0c61a-5e6b-442a-9a16-f1c24a7af5ba" />
+[Mythtail Yellow](https://go.screenpal.com/watch/cZl31aneeuF)
+
 
 ---
 
