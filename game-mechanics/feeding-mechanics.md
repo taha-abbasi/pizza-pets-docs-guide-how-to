@@ -75,4 +75,4 @@ If you'd like a step-by-step walkthrough of feeding mechanics, check out this vi
 
 Feeding your Pizza Pets is the foundation of their care, but it’s also a balancing act. **🍕 Pizza** and **🍺 Beer** give them the hearts they need, but **💩 poop management** keeps their health in check. Mastering this balance is the key to keeping your pets alive and thriving.
 
-Ready to take things to the next level? Let’s explore some advanced strategies for managing heart loss, boosting evolution, and outsmarting the poop mechanics. 🍕🐾
+👇 Up next: **Poop Management**—the key to controlling heart health decline rates and keeping your pets alive. Don’t let poop stack up (Satoshi wouldn’t, so why would you?). Let’s dive into the dirty details!
