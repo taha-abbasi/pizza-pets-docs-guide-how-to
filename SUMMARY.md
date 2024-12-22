@@ -6,7 +6,7 @@
 
 * [📐 Game Overview](game-mechanics/game-overview.md)
 * [🐾 Types of Pizza Pets](game-mechanics/types-of-pizza-pets.md)
-* [🎮 Feeding Mechanics](game-mechanics/feeding-mechanics.md)
+* [🍕 Feeding Mechanics](game-mechanics/feeding-mechanics.md)
 * [☠️ Poop Management](game-mechanics/poop-management.md)
 * [💔 Evolution Stages](game-mechanics/evolution-stages.md)
 * [💊 Game Actions Explained](game-mechanics/game-actions.md)
