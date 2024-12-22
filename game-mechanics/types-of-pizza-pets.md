@@ -36,7 +36,15 @@ The legendary **Mythtail** is a creature of myths and legends, shrouded in myste
 
 Meet **Terrapod**, the grounded protector with a shell tough enough to withstand the harshest conditions. It’s the tank of the Pizza Pets family.
 
-_Placeholder for Terrapod image_
+{% tabs %}
+{% tab title="Terrapod" %}
+<div align="center"><figure><img src="../.gitbook/assets/Terrapod.png" alt="" width="375"><figcaption><p>Terrapod</p></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Terrapod - Video" %}
+{% embed url="https://somup.com/cZl31sd0D8" %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
