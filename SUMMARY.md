@@ -1,3 +1,11 @@
 # Table of contents
 
-* [Page](README.md)
+* [🍕 Introduction](README.md)
+
+## 🕹️ Game Mechanics
+
+* [📐 Game Overview](game-mechanics/game-overview.md)
+
+## 🗃️ Resources
+
+* [🙏 Donations](resources/donations.md)
