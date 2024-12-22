@@ -1,12 +1,12 @@
 # 🐾 Types of Pizza Pets
 
-# Meet the Pizza Pets 🍕🐾
+## Meet the Pizza Pets 🍕🐾
 
 Pizza Pets are as unique as a perfectly crafted pizza—each one with its own flair and personality. In the world of Pizza Pets, there are **11 distinct types** of pets you can collect and care for. Each type offers its own special traits and charm, making them highly sought after by collectors and players alike. Let’s take a closer look at each type!
 
 ***
 
-## Mythtail 🐉
+### Mythtail 🐉
 
 **Description:**
 
@@ -26,11 +26,9 @@ The legendary **Mythtail** is a creature of myths and legends, shrouded in myste
 {% endtab %}
 {% endtabs %}
 
-
-
 ***
 
-## Terrapod 🐢
+### Terrapod 🐢
 
 **Description:**
 
@@ -48,7 +46,7 @@ Meet **Terrapod**, the grounded protector with a shell tough enough to withstand
 
 ***
 
-## Fluffypuff 🐑
+### Fluffypuff 🐑
 
 **Description:**
 
@@ -66,7 +64,7 @@ Cuteness overload! **Fluffypuff** is as soft and huggable as it sounds. Don’t 
 
 ***
 
-## Aquafin 🐠
+### Aquafin 🐠
 
 **Description:**
 
@@ -84,7 +82,7 @@ Diving into the deep, **Aquafin** is the master of all things aquatic. Its sleek
 
 ***
 
-## Coalvim 🪨
+### Coalvim 🪨
 
 **Description:**
 
@@ -94,7 +92,7 @@ _Placeholder for Coalvim image_
 
 ***
 
-## Flamora 🔥
+### Flamora 🔥
 
 **Description:**
 
@@ -104,7 +102,7 @@ _Placeholder for Flamora image_
 
 ***
 
-## Frostfang ❄️
+### Frostfang ❄️
 
 **Description:**
 
@@ -114,7 +112,7 @@ _Placeholder for Frostfang image_
 
 ***
 
-## Electroid ⚡
+### Electroid ⚡
 
 **Description:**
 
@@ -124,7 +122,7 @@ _Placeholder for Electroid image_
 
 ***
 
-## Sunbloom 🌻
+### Sunbloom 🌻
 
 **Description:**
 
@@ -134,7 +132,7 @@ _Placeholder for Sunbloom image_
 
 ***
 
-## Petroil 🛢️
+### Petroil 🛢️
 
 **Description:**
 
@@ -144,7 +142,7 @@ _Placeholder for Petroil image_
 
 ***
 
-## Galewing 🌪️
+### Galewing 🌪️
 
 **Description:**
 
@@ -154,6 +152,6 @@ _Placeholder for Galewing image_
 
 ***
 
-## What's Next? 🌟
+### What's Next? 🌟
 
 Now that you’ve met the Pizza Pets, let’s explore how to keep them happy and healthy. 🍕
