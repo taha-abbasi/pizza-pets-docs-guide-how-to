@@ -6,6 +6,10 @@ Pizza Pets are as unique as a perfectly crafted pizza—each one with its own fl
 
 ***
 
+{% include "../.gitbook/includes/the-ultimate-goal.md" %}
+
+***
+
 ### Mythtail 🐉
 
 **Description:**

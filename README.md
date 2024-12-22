@@ -8,14 +8,7 @@
 
 This open-source, community-driven guide is your ultimate resource for mastering **Pizza Pets**. Here, you'll unravel the intricacies of gameplay mechanics, learn how to care for your pets, and discover pro strategies to elevate your experience. Whether you’re a seasoned player or just getting started, this guide has you covered.
 
-## The Ultimate Goal 🎯
-
-Your mission?
-
-* Collect **11 unique types of pets**.
-* Evolve them to **Immortal status**, unlocking exclusive secrets and the ability to breed new pets in Season Two! 🌟
-
-Success demands strategy, dedication, and a little luck as you navigate the deflationary world of **Pizza Pets**.
+{% include ".gitbook/includes/the-ultimate-goal.md" %}
 
 ## What's Inside 🧐
 
