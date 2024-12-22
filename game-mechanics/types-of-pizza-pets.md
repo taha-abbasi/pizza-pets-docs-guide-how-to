@@ -22,7 +22,7 @@ The legendary **Mythtail** is a creature of myths and legends, shrouded in myste
 {% endtab %}
 
 {% tab title="Mythtail - Video" %}
-{% embed url="https://go.screenpal.com/watch/cZl31aneeuF" %}
+{% embed url="https://somup.com/cZl318d0DR" %}
 {% endtab %}
 {% endtabs %}
 
