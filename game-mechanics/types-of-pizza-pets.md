@@ -1,6 +1,6 @@
 # 🐾 Types of Pizza Pets
 
-## Meet the Pizza Pets 🍕🐾
+# Meet the Pizza Pets 🍕🐾
 
 Pizza Pets are as unique as a perfectly crafted pizza—each one with its own flair and personality. In the world of Pizza Pets, there are **11 distinct types** of pets you can collect and care for. Each type offers its own special traits and charm, making them highly sought after by collectors and players alike. Let’s take a closer look at each type!
 
