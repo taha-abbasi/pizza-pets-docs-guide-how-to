@@ -28,6 +28,14 @@ If this guide helps you, consider supporting us! Donations cover hosting costs a
 [donations.md](resources/donations.md)
 {% endcontent-ref %}
 
+## Watch the Video Overview 🎥
+
+If you'd like an overview of the game, check out this video:
+
+{% embed url="https://youtu.be/7HHDtGxiJs8?si=YTbXsNsXEbacmQ-W" %}
+
+***
+
 ## 🎮 Game Overview
 
 Now that you’re familiar with the guide, let’s dive into the game itself! In the next section, we’ll explore the key mechanics, unique features, and what makes **Pizza Pets** so engaging. 📖
