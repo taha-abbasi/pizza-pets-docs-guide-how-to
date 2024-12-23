@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🍕 Introduction](README.md)
+* [🍕 Pizza Pets Guide](README.md)
 
 ## 🕹️ Game Mechanics
 
