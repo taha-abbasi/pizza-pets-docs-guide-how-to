@@ -9,7 +9,7 @@
 * [🎮 Feeding Mechanics](game-mechanics/feeding-mechanics.md)
 * [☠️ Poop Management](game-mechanics/poop-management.md)
 * [🪄 Evolution Stages](game-mechanics/evolution-stages.md)
-* [🎮 Game Actions Explained](game-mechanics/game-actions.md)
+* [🎮 Game Actions & Drugs Explained](game-mechanics/game-actions.md)
 * [💣 The Pet Pulverizer](game-mechanics/pet-pulverizer.md)
 
 ## 💡 Advanced Strategies
@@ -20,7 +20,6 @@
 ## 🗃️ Resources
 
 * [🙏 Donations](resources/donations.md)
-* [🚿 Drugs and Their Effects](resources/drugs-and-effects.md)
 * [⏳ Timeline and Seasons](resources/timeline-and-seasons.md)
 * [🌟 Leaderboard and Community Rankings](resources/leaderboard.md)
 
