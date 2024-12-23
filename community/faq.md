@@ -12,6 +12,20 @@ Pizza Pets are **Tamagotchi-style digital pets** that evolve, require care, and 
 
 ***
 
+### **Q: How do I feed my pets?**
+
+You can feed your pets using the available feeding sites:
+- **Official Feeding Site**: [pizzapets.fun](https://www.pizzapets.fun/)  
+- [**@lifofifo**](https://x.com/lifofifo)**’s Feeding Site**: [pets.inscribe.dev](https://pets.inscribe.dev/)
+
+**Watch the Video Guide 🎥**
+
+If you'd like a step-by-step walkthrough of feeding mechanics, check out this video guide:
+
+{% embed url="https://youtu.be/U3C5PlKuUGI?si=Fs9P0rM6Tr0--CfX" %}
+
+***
+
 ### **Q: How many pets are alive, dead, and in circulation?**
 
 The current statistics for **alive pets**, **dead pets**, and the **total number of pets in circulation** are updated live and can be viewed at the [Pizza Pets Dashboard](https://www.pizzapets.fun/dashboard).
