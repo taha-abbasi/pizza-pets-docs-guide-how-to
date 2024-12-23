@@ -9,7 +9,7 @@
 * [🎮 Feeding Mechanics](game-mechanics/feeding-mechanics.md)
 * [☠️ Poop Management](game-mechanics/poop-management.md)
 * [🪄 Evolution Stages](game-mechanics/evolution-stages.md)
-* [💼 Game Actions Explained](game-mechanics/game-actions.md)
+* [🎮 Game Actions Explained](game-mechanics/game-actions.md)
 * [🏆 The Pet Pulverizer](game-mechanics/pet-pulverizer.md)
 
 ## 💡 Advanced Strategies
