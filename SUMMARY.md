@@ -14,7 +14,7 @@
 
 ## 💡 Advanced Strategies
 
-* [🍼 Advanced Strategies](advanced-strategies/advanced-strategies.md)
+* [🧠 Advanced Strategies](advanced-strategies/advanced-strategies.md)
 * [🔥 The Deflationary Effect](advanced-strategies/deflationary-effect.md)
 
 ## 🗃️ Resources

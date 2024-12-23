@@ -1,2 +1,2 @@
-# 🍼 Advanced Strategies
+# 🧠 Advanced Strategies
 
