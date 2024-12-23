@@ -21,6 +21,10 @@ Poop isn’t just gross—it’s dangerous. Here’s why:
   - **2 poops = 2.8 hearts ❤️❤️💕/day**  
   - **3 poops = 4.2 hearts ❤️❤️❤️❤️💕/day**  
 
+{% hint style="info" %}
+Multiple poops can only occur with **multiple feeds**. For example, if you’ve fed your pet several pizzas, beers, or a combination of both, and the pet hasn’t pooped yet, it can poop once for each of those feeds. Without feeding, pets will not poop.
+{% endhint %}
+
 Letting poop stack is like leaving your Bitcoin private keys unguarded—it’s a disaster waiting to happen. **Satoshi would never do that, why would you?**
 
 ---
@@ -41,11 +45,13 @@ To remove the impact of poop:
 
 ### Child, Teen, and Adult Stages 🧒🧑🦸‍♂️
 - Pets in these stages can poop **randomly within 7 days** after a feed.  
-- These pets can poop multiple times during this period, requiring close attention.
+- These pets can poop multiple times during this period, requiring close attention.  
 
 {% hint style="info" %}
-To anticipate poop, check the **stats menu** on your pet. This menu shows the block in which poop is expected, helping you plan your next move.
+For pets to poop multiple times, they must have been fed multiple times without pooping. Each feed gives the pet one chance to poop, which it may use over time. Without a feed, pets will not poop.
 {% endhint %}
+
+To anticipate poop, check the **stats menu** on your pet. This menu shows the block in which poop is expected, helping you plan your next move.
 
 ---
 
@@ -78,7 +84,7 @@ To know when your pet is expected to poop:
 {% endtab %}
 
 {% tab title="Video Guide - Poop Stat Check" %}
-{% embed url="https://somup.com/cZl0ejd0Cb" %}
+{% embed url="https://go.screenpal.com/watch/cZl0ejnefFx" %}
 {% endtab %}
 {% endtabs %}
 
@@ -98,4 +104,4 @@ These mechanics are covered in detail in the **Advanced Strategies** section.
 
 ## Final Thoughts 🐾
 
-Poop management is vital to your pet’s survival. By understanding when and how poop impacts heart health, using showers effectively, and anticipating poop events with the stats menu, you can keep your Pizza Pet thriving. Stay vigilant, clean that poop, and remember: Satoshi wouldn’t let poop stack, so neither should you!
+Poop management is vital to your pet’s survival. By understanding when and how poop impacts heart health, using showers effectively, and anticipating poop events with the stats menu, you can keep your Pizza Pet thriving. Stay vigilant, clean that poop, and remember: **Satoshi wouldn’t let poop stack, so neither should you!**
