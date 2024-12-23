@@ -39,7 +39,8 @@ The evolution process happens automatically as blocks are mined and your pet acc
 
 * **Egg to Baby**: All Pizza Pets start as eggs and hatch into babies after **288 blocks** (\~2 days).
 * **Stage Transitions**: Each stage transition requires a set number of blocks to complete, as shown in the chart.
-* **Immortal Stage**: Reaching the Immortal stage is the ultimate goal, unlocking unique traits and high value.
+* **Immortal Stage**: Reaching the Immortal stage is the ultimate goal, unlocking unique traits and high value.  
+    - Collecting all **11 types of pets** and evolving them to Immortal will give you the ability to breed **new pets** in **Season 2** of the game.
 
 ***
 
@@ -49,21 +50,26 @@ The evolution process happens automatically as blocks are mined and your pet acc
 
 Certain items, such as **roids (Performance Enhancing Drugs)**, can speed up the evolution process. For example:
 
-* Using roids reduces the block requirements for stage transitions by **33%**, as shown in the “Blocks (With Roids)” column above.
+* **Steroids (Roids)**: Increase evolution rate by **1.5x**, reducing the time required to transition between stages. However, this comes at the cost of doubling the heart loss rate (**2x** heart loss).  
+* **Coffee**: Does not directly impact evolution speed but reduces the heart loss rate by **1.2x**, which can be useful for survival during stage transitions.
 
 ### Slowdowns: SADs and Other Factors
 
 Other items, such as **State Altering Drugs (SADs)**, can **pause or slow down evolution**. For instance:
 
-* **DMT**: Temporarily pauses the game, freezing evolution progress during its effect.
+* **Weed**: Slows evolution by **2x** but also slows heart loss rate by **1.5x**, providing a balance for those focusing on long-term survival.  
+* **LSD**: Temporarily pauses the game for **14 days (2016 blocks)**, freezing both heart loss and evolution progress.  
+* **DMT**: Provides a high-risk, high-reward mechanic by **instantly evolving your pet to the next stage** or potentially killing it. The success rates vary based on the current stage and are particularly low for evolving to Immortal.
 
-We’ll explore these items and strategies in more detail in the **Advanced Strategies** section.
+We’ll explore these items and strategies in more detail in the **Game Actions Explained** and **Advanced Strategies** sections.
 
 ***
 
 ## Evolution and the Bigger Picture 🌟
 
-Reaching the Immortal stage within Season 1 is a significant achievement. It requires planning, efficient use of game actions, and a clear understanding of how evolution works. While items like **DMT** and **roids** can provide advantages or introduce complexities, mastering these mechanics is key to thriving in Pizza Pets.
+Reaching the Immortal stage within Season 1 is a significant achievement. It requires planning, efficient use of game actions, and a clear understanding of how evolution works. While items like **roids** and **DMT** can provide acceleration or dramatic shifts, they come with their own risks and trade-offs.
+
+For players aiming for **Season 2**, evolving all **11 types of pets** to Immortal status will unlock the **breeding feature**, allowing you to create new pets and gain an edge in the next phase of the game.
 
 ***
 
