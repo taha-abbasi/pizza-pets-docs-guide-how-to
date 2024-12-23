@@ -1,4 +1,4 @@
-# 🎮 Game Actions Explained
+# 🎮 Game Actions and Drugs
 
 Pizza Pets offers a variety of actions to keep your pets healthy, evolving, and unique. From basic feeding to advanced drug effects, every action influences your pet’s survival and evolution. Let’s break them down.
 
