@@ -1,4 +1,4 @@
-# 💔 Evolution Stages
+# 🪄 Evolution Stages
 
 ## 🌟 Evolution Stages Explained
 
