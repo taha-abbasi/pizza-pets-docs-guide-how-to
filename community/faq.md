@@ -88,11 +88,11 @@ Unfortunately, there is no way to recover a dead pet. Set alarms or reminders fo
 
 ***
 
-## 🔧 Troubleshooting
+### **Q: My pets disappeared after I submitted a feed or game action transaction. Where did they go?**
 
-### **Issue: My feeding transaction failed. What should I do?**
+The feed and game actions are an **ordinal inscription**, which requires a **commit** and **reveal** transaction. During this stage, the feeding sites will show your pets in the mempool. Once the transaction is confirmed, the pets will return to your account.
 
-* **Solution**: Check the mempool to see if the transaction is pending or has been replaced by a higher fee transaction. If it’s not appearing, try resubmitting the transaction with a higher fee.
+If you experience issues, reach out to the Ninjalerts team on Discord for support: [discord.com/invite/pizzaninjas](https://discord.com/invite/pizzaninjas).
 
 ***
 
