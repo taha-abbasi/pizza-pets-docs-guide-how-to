@@ -4,11 +4,11 @@
 
 **Pizza Pets** is a groundbreaking, Tamagotchi-inspired, deflationary on-chain game on Bitcoin, brought to life by the creative geniuses behind **Pizza Ninjas Ordinals**. Conceived by **Trevor Owens (TO)**—or is it _Ralf_? 🤔—this game offers a thrilling dive into blockchain gameplay, paired with stunning art crafted by the visionary team at **MegaPunks**. 🎨
 
+{% include ".gitbook/includes/the-ultimate-goal.md" %}
+
 ## About This Guide 📚
 
 This open-source, community-driven guide is your ultimate resource for mastering **Pizza Pets**. Here, you'll unravel the intricacies of gameplay mechanics, learn how to care for your pets, and discover pro strategies to elevate your experience. Whether you’re a seasoned player or just getting started, this guide has you covered.
-
-{% include ".gitbook/includes/the-ultimate-goal.md" %}
 
 ## What's Inside 🧐
 
