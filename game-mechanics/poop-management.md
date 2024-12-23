@@ -12,6 +12,19 @@ When a pet poops, their **heart loss rate increases** significantly. Let’s exp
 
 ---
 
+## Poop Probability by Feed Type 🍕🍺
+
+Different types of feeds affect the probability of poop. Here’s how it breaks down:
+
+| Feed Type  | Hearts Gained  | Poop Probability |
+|------------|----------------|-------------------|
+| 🍕 Pizza   | +1 ❤️          | 23%              |
+| 🍺 Beer    | +2 ❤️❤️        | 69%              |
+
+Choosing the right feed is a balancing act—while Beer provides more hearts, it comes with a much higher poop risk.
+
+---
+
 ## The Consequences of Poop 🤢
 
 Poop isn’t just gross—it’s dangerous. Here’s why:  
@@ -105,3 +118,5 @@ These mechanics are covered in detail in the **Advanced Strategies** section.
 ## Final Thoughts 🐾
 
 Poop management is vital to your pet’s survival. By understanding when and how poop impacts heart health, using showers effectively, and anticipating poop events with the stats menu, you can keep your Pizza Pet thriving. Stay vigilant, clean that poop, and remember: **Satoshi wouldn’t let poop stack, so neither should you!**
+
+👇 Up next: **Evolution Stages**—discover how your Pizza Pet grows, evolves, and transforms through the stages of its life cycle. Understanding evolution is key to keeping your pet alive and unlocking its full potential!
