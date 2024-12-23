@@ -1,2 +1,2 @@
-# ❓ The Deflationary Effect
+# 🔥 The Deflationary Effect
 
