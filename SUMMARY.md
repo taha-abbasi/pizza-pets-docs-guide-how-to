@@ -16,12 +16,12 @@
 
 * [🍼 Advanced Strategies](advanced-strategies/advanced-strategies.md)
 * [❓ The Deflationary Effect](advanced-strategies/deflationary-effect.md)
-* [🍕 Timeline and Seasons](advanced-strategies/timeline-and-seasons.md)
-* [🚿 Drugs and Their Effects](advanced-strategies/drugs-and-effects.md)
 
 ## 🗃️ Resources
 
 * [🙏 Donations](resources/donations.md)
+* [🚿 Drugs and Their Effects](resources/drugs-and-effects.md)
+* [🍕 Timeline and Seasons](resources/timeline-and-seasons.md)
 * [🌟 Leaderboard and Community Rankings](resources/leaderboard.md)
 
 ## 🍼 Future Seasons
