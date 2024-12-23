@@ -1,2 +1,2 @@
-# 🏆 The Pet Pulverizer
+# 💣 The Pet Pulverizer
 
