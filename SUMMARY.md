@@ -21,7 +21,7 @@
 
 * [🙏 Donations](resources/donations.md)
 * [🚿 Drugs and Their Effects](resources/drugs-and-effects.md)
-* [🍕 Timeline and Seasons](resources/timeline-and-seasons.md)
+* [⏳ Timeline and Seasons](resources/timeline-and-seasons.md)
 * [🌟 Leaderboard and Community Rankings](resources/leaderboard.md)
 
 ## 🍼 Future Seasons
