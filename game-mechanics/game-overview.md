@@ -8,7 +8,7 @@ Welcome to the wild, wacky, and deflationary world of **Pizza Pets**—a game wh
 
 In **Pizza Pets**, you’re not just a pet owner—you’re a lifeline. Ignore your pets, and they’ll perish. And when they’re gone, they’re _really gone_. Dead pets are removed from the collection forever. No revivals, no respawns, no crypto hacks to get them back.
 
-Case in point? The infamous **Pizza Pets Halving** on December 19, 2024. Over **30,000 pets** bit the dust, slashing the population in half and sending surviving pet values soaring faster than Bitcoin in a bull run. Brutal? Sure. But hey, scarcity is what makes things valuable in crypto, right?
+Case in point? The infamous **Pizza Pets Halving** on December 19, 2024. Over **33,725 pets** bit the dust, slashing the population in half and sending surviving pet values soaring faster than Bitcoin in a bull run. Brutal? Sure. But hey, scarcity is what makes things valuable in crypto, right?
 
 ## How It Works: Hearts, Pizza, and Poop 💔🍕💩
 
