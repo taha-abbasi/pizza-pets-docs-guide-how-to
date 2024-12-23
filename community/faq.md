@@ -12,13 +12,7 @@ Pizza Pets are **Tamagotchi-style digital pets** that evolve, require care, and 
 ---
 
 ### **Q: How many pets are alive, dead, and in circulation?**
-As of now:
-- **Alive Pets**: [Live count](https://www.pizzapets.fun/dashboard).  
-- **Dead Pets**: [Live count](https://www.pizzapets.fun/dashboard).  
-- **Total Pets in Circulation**: [Live count](https://www.pizzapets.fun/dashboard).  
-
-These statistics are updated live and can be viewed at:  
-[Pizza Pets Dashboard](https://www.pizzapets.fun/dashboard)
+The current statistics for **alive pets**, **dead pets**, and the **total number of pets in circulation** are updated live and can be viewed at the [Pizza Pets Dashboard](https://www.pizzapets.fun/dashboard).
 
 ---
 
