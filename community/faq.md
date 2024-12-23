@@ -1,4 +1,4 @@
-# 🪦 FAQ and Troubleshooting
+# 📝 FAQ and Troubleshooting
 
 Welcome to the **FAQ and Troubleshooting** page! Whether you’re a new player or a seasoned Pizza Pets pro, this resource aims to answer common questions and address potential issues. If your question isn’t covered here, feel free to submit your suggestions for new FAQs using the **Edit this page on GitHub** button.
 

@@ -26,9 +26,9 @@
 ## 🍼 Future Seasons
 
 * [🤔 Breeding in Season Two](future-seasons/breeding-season-two.md)
-* [📅 Pizza Pets Graveyard](future-seasons/pizza-pets-graveyard.md)
+* [🪦 Pizza Pets Graveyard](future-seasons/pizza-pets-graveyard.md)
 
 ## 🤝 Community
 
-* [🪦 FAQ and Troubleshooting](community/faq.md)
+* [📝 FAQ and Troubleshooting](community/faq.md)
 * [🤝 Community Contributions](community/community-contributions.md)
