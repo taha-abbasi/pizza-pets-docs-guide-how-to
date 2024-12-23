@@ -18,13 +18,17 @@ This open-source, community-driven guide is your ultimate resource for mastering
 * **Evolution Stages:** Understand the stages of evolution and how to level up.
 * **Feeding Your Pets:** Access step-by-step video and written guides to keep your pets healthy.
 
-This guide was kicked off by me, [@tahaabbasi](https://x.com/tahaabbasi), but it’s far from a solo mission. I’m calling all Pizza Pet holders to dive in and add your slice of genius here. After all, Pizza Pets aren’t just some random game—they’re like if the Ninja Turtles powered up on Bitcoin pizza instead of mutagen. 🍕🐢✨ Together, we’re crafting the future of Bitcoin’s first deflationary on-chain game. Let’s make this as legendary as the time Laszlo Hanyecz bought pizza for 10,000 BTC! 🥷💸
-
 ## Watch the Video Overview 🎥
 
 If you'd like an overview of the game, check out this video:
 
 {% embed url="https://youtu.be/7HHDtGxiJs8?si=YTbXsNsXEbacmQ-W" %}
+
+## Contributions
+
+This guide was kicked off by me, [@tahaabbasi](https://x.com/tahaabbasi), but it’s far from a solo mission. I’m calling all Pizza Pet holders to dive in and add your slice of genius here. After all, Pizza Pets aren’t just some random game—they’re like if the Ninja Turtles powered up on Bitcoin pizza instead of mutagen. 🍕🐢✨ Together, we’re crafting the future of Bitcoin’s first deflationary on-chain game. Let’s make this as legendary as the time Laszlo Hanyecz bought pizza for 10,000 BTC! 🥷💸
+
+See Community Contributions page for more details on improving this guide. 💡📘
 
 ## Support and Donations 💖
 
