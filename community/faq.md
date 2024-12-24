@@ -26,6 +26,25 @@ If you'd like a step-by-step walkthrough of feeding mechanics, check out this vi
 
 ***
 
+### **Q: What is Game-Time, and how does it work?**
+
+Pizza Pets uses **Bitcoin block counts** instead of real-world time to measure gameplay.  
+- **1 Game Hour** = **6 Bitcoin Blocks (~1 hour)**  
+- **1 Game Day** = **144 Bitcoin Blocks (~1 day)**  
+- **1 Game Week** = **1008 Bitcoin Blocks (~1 week)**  
+
+Actual block times can vary, so a “game hour” might take 30 minutes or several hours depending on the network.
+
+For more, visit: [Game-Time Explained](../game-mechanics/timeline-and-seasons.md#understanding-game-time)
+
+***
+
+### **Q: Why does the game use Bitcoin blocks instead of real time?**
+
+Using Bitcoin blocks ensures a **decentralized, dynamic experience**. Unlike fixed clocks, block times vary, creating unpredictability in gameplay. It’s part of the challenge—and the fun!
+
+***
+
 ### **Q: How many pets are alive, dead, and in circulation?**
 
 The current statistics for **alive pets**, **dead pets**, and the **total number of pets in circulation** are updated live and can be viewed at the [Pizza Pets Dashboard](https://www.pizzapets.fun/dashboard).

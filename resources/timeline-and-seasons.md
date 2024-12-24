@@ -6,6 +6,24 @@ Pizza Pets isn’t just a game—it’s a piece of history. Built on the Bitcoin
 
 ---
 
+## 🕰️ Understanding Game-Time
+
+Pizza Pets uses **Bitcoin block counts** to track time, adding a decentralized twist to gameplay. Unlike real-world clocks, which Ralf claims are rigged by Ninjalerts to confuse players, game-time is all about block mining. Here’s how it works:
+
+| **Game-Time Unit** | **Number of Bitcoin Blocks** | **Average Real Time** |
+|---------------------|------------------------------|------------------------|
+| **1 Game Hour**     | 6 Blocks                    | ~1 Hour               |
+| **1 Game Day**      | 144 Blocks                  | ~1 Day                |
+| **1 Game Week**     | 1008 Blocks                 | ~1 Week               |
+
+- **Dynamic Timing**: While a Bitcoin block averages **10 minutes**, actual times can vary greatly, adding an element of unpredictability to gameplay.  
+- **Strategic Implications**: Players must think in blocks, not minutes, to master strategies like feeding, evolving, and protecting their pets.
+
+For a deeper dive into game-time mechanics, check out this resource by [@gm7t2](https://x.com/gm7t2):  
+[Game-Time Calculator](https://pets.ordstuff.info/time/)
+
+---
+
 ## 🕰️ Season 1: The Beginning
 
 The first season of Pizza Pets began on **December 14, 2024**, and is projected to last **72 days**, ending on **February 24, 2025**. This timeline is based on an average block time of **10 minutes**, totaling **10,368 Bitcoin blocks** for the season.
