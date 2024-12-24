@@ -15,8 +15,9 @@ Pizza Pets are **Tamagotchi-style digital pets** that evolve, require care, and 
 ### **Q: How do I feed my pets?**
 
 You can feed your pets using the available feeding sites:
-- **Official Feeding Site**: [pizzapets.fun](https://www.pizzapets.fun/)  
-- [**@lifofifo**](https://x.com/lifofifo)**’s Feeding Site**: [pets.inscribe.dev](https://pets.inscribe.dev/)
+
+* **Official Feeding Site**: [pizzapets.fun](https://www.pizzapets.fun/)
+* [**@lifofifo**](https://x.com/lifofifo)**’s Feeding Site**: [pets.inscribe.dev](https://pets.inscribe.dev/)
 
 **Watch the Video Guide 🎥**
 
@@ -28,14 +29,15 @@ If you'd like a step-by-step walkthrough of feeding mechanics, check out this vi
 
 ### **Q: What is Game-Time, and how does it work?**
 
-Pizza Pets uses **Bitcoin block counts** instead of real-world time to measure gameplay.  
-- **1 Game Hour** = **6 Bitcoin Blocks (~1 hour)**  
-- **1 Game Day** = **144 Bitcoin Blocks (~1 day)**  
-- **1 Game Week** = **1008 Bitcoin Blocks (~1 week)**  
+Pizza Pets uses **Bitcoin block counts** instead of real-world time to measure gameplay.
+
+* **1 Game Hour** = **6 Bitcoin Blocks (\~1 hour)**
+* **1 Game Day** = **144 Bitcoin Blocks (\~1 day)**
+* **1 Game Week** = **1008 Bitcoin Blocks (\~1 week)**
 
 Actual block times can vary, so a “game hour” might take 30 minutes or several hours depending on the network.
 
-For more, visit: [Game-Time Explained](../game-mechanics/timeline-and-seasons.md#understanding-game-time)
+For more, visit: [Game-Time Explained](../resources/timeline-and-seasons.md#understanding-game-time)
 
 ***
 
