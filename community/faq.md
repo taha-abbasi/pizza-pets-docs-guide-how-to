@@ -131,6 +131,37 @@ If you experience issues, reach out to the Ninjalerts team on Discord for suppor
 
 ***
 
+### **Q: If my pet is on a drug that has a kill or death block such as Cocaine, LSD, etc., can I just feed it the same drug again before the death block arrives to extend the death block further?**
+
+**A:**  
+No, you cannot extend the death block by feeding the same drug again. To apply a new death block:  
+1. **Feed Milk** to remove the existing drug effect and its associated death block.  
+2. Then, **feed the drug again** to create a new effect and establish a new death block.  
+
+Ralf might argue this is part of Ninjalerts’ grand scheme to limit your pets’ potential, but we know the real story: it’s all about strategy! Timing is everything—just like planning your next Bitcoin transaction in a congested mempool.
+
+***
+
+### **Q: Can I give my pet a Shower in the same block poop is incoming?**
+
+**A:**  
+No, it will waste the Shower. The poop block needs to **confirm first** before the Shower is applied. Attempting to Shower in the same block will have no effect because the game mechanics require the poop status to be fully confirmed on-chain.
+
+Think of it as waiting for your Bitcoin transaction to finalize before calling it “confirmed.” Ralf might say Ninjalerts made the rules to keep him busy cleaning up moon cheese crumbs, but Pizza Ninjas know it’s just the game’s way of keeping us sharp.
+
+***
+
+### **Q: Can I feed my pet in the same block it’s projected to die to save the pet?**
+
+**A:**  
+Yes, but it’s risky. If your feed or Milk transaction confirms **in the same block as the pet’s death block**, it will save the pet. This applies to:
+- Pets dying due to heart health loss.  
+- Pets on drugs like Cocaine or LSD with a death block.  
+
+However, this requires precise timing, as the transaction must be confirmed **within the same block**. Ralf might call this high-stakes gambling (and he’d be right), but Bitcoiners know it’s all about precision and mempool management. Channel your inner Pizza Ninja and aim for perfect timing!
+
+***
+
 ## 🌟 Need More Help?
 
 For additional support:
