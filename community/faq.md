@@ -29,13 +29,15 @@ If you'd like a step-by-step walkthrough of feeding mechanics, check out this vi
 
 ### **Q: What is Game-Time, and How Does It Work?**
 
-In **Pizza Pets**, *Game-Time* is measured using **Bitcoin block counts** instead of real-world time, introducing a dynamic and decentralized timing mechanism. Here's how it works:
+In **Pizza Pets**, _Game-Time_ is measured using **Bitcoin block counts** instead of real-world time, introducing a dynamic and decentralized timing mechanism. Here's how it works:
 
-- **1 Game Hour** = **6 Bitcoin Blocks** (~1 hour)
-- **1 Game Day** = **144 Bitcoin Blocks** (~1 day)
-- **1 Game Week** = **1,008 Bitcoin Blocks** (~1 week)
+* **1 Game Hour** = **6 Bitcoin Blocks** (\~1 hour)
+* **1 Game Day** = **144 Bitcoin Blocks** (\~1 day)
+* **1 Game Week** = **1,008 Bitcoin Blocks** (\~1 week)
 
-> **Note:** Time estimates assume an average of 10 minutes per Bitcoin block. However, actual block times can vary due to network conditions. This means a "game hour" might take 30 minutes or several hours, making *Game-Time* more **dynamic and unpredictable** compared to fixed real-world time.
+{% hint style="info" %}
+Time estimates assume an average of 10 minutes per Bitcoin block. However, actual block times can vary due to network conditions. This means a "game hour" might take 30 minutes or several hours, making _Game-Time_ more **dynamic and unpredictable** compared to fixed real-world time.
+{% endhint %}
 
 This variability adds an exciting element of spontaneity and unpredictability to the gameplay experience.
 
@@ -135,10 +137,11 @@ If you experience issues, reach out to the Ninjalerts team on Discord for suppor
 
 ### **Q: If my pet is on a drug that has a kill or death block such as Cocaine, LSD, etc., can I just feed it the same drug again before the death block arrives to extend the death block further?**
 
-**A:**  
-No, you cannot extend the death block by feeding the same drug again. To apply a new death block:  
-1. **Feed Milk** to remove the existing drug effect and its associated death block.  
-2. Then, **feed the drug again** to create a new effect and establish a new death block.  
+**A:**\
+No, you cannot extend the death block by feeding the same drug again. To apply a new death block:
+
+1. **Feed Milk** to remove the existing drug effect and its associated death block.
+2. Then, **feed the drug again** to create a new effect and establish a new death block.
 
 Ralf might argue this is part of Ninjalerts’ grand scheme to limit your pets’ potential, but we know the real story: it’s all about strategy! Timing is everything—just like planning your next Bitcoin transaction in a congested mempool.
 
@@ -146,7 +149,7 @@ Ralf might argue this is part of Ninjalerts’ grand scheme to limit your pets�
 
 ### **Q: Can I give my pet a Shower in the same block poop is incoming?**
 
-**A:**  
+**A:**\
 No, it will waste the Shower. The poop block needs to **confirm first** before the Shower is applied. Attempting to Shower in the same block will have no effect because the game mechanics require the poop status to be fully confirmed on-chain.
 
 Think of it as waiting for your Bitcoin transaction to finalize before calling it “confirmed.” Ralf might say Ninjalerts made the rules to keep him busy cleaning up moon cheese crumbs, but Pizza Ninjas know it’s just the game’s way of keeping us sharp.
@@ -155,10 +158,11 @@ Think of it as waiting for your Bitcoin transaction to finalize before calling i
 
 ### **Q: Can I feed my pet in the same block it’s projected to die to save the pet?**
 
-**A:**  
+**A:**\
 Yes, but it’s risky. If your feed or Milk transaction confirms **in the same block as the pet’s death block**, it will save the pet. This applies to:
-- Pets dying due to heart health loss.  
-- Pets on drugs like Cocaine or LSD with a death block.  
+
+* Pets dying due to heart health loss.
+* Pets on drugs like Cocaine or LSD with a death block.
 
 However, this requires precise timing, as the transaction must be confirmed **within the same block**. Ralf might call this high-stakes gambling (and he’d be right), but Bitcoiners know it’s all about precision and mempool management. Channel your inner Pizza Ninja and aim for perfect timing!
 
