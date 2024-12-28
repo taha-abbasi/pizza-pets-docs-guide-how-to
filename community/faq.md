@@ -27,15 +27,17 @@ If you'd like a step-by-step walkthrough of feeding mechanics, check out this vi
 
 ***
 
-### **Q: What is Game-Time, and how does it work?**
+### **Q: What is Game-Time, and How Does It Work?**
 
-Pizza Pets uses **Bitcoin block counts** instead of real-world time to measure gameplay.
+In **Pizza Pets**, *Game-Time* is measured using **Bitcoin block counts** instead of real-world time, introducing a dynamic and decentralized timing mechanism. Here's how it works:
 
-* **1 Game Hour** = **6 Bitcoin Blocks (\~1 hour)**
-* **1 Game Day** = **144 Bitcoin Blocks (\~1 day)**
-* **1 Game Week** = **1008 Bitcoin Blocks (\~1 week)**
+- **1 Game Hour** = **6 Bitcoin Blocks** (~1 hour)
+- **1 Game Day** = **144 Bitcoin Blocks** (~1 day)
+- **1 Game Week** = **1,008 Bitcoin Blocks** (~1 week)
 
-Actual block times can vary, so a “game hour” might take 30 minutes or several hours depending on the network.
+> **Note:** Time estimates assume an average of 10 minutes per Bitcoin block. However, actual block times can vary due to network conditions. This means a "game hour" might take 30 minutes or several hours, making *Game-Time* more **dynamic and unpredictable** compared to fixed real-world time.
+
+This variability adds an exciting element of spontaneity and unpredictability to the gameplay experience.
 
 For more, visit: [Game-Time Explained](../resources/timeline-and-seasons.md#understanding-game-time)
 
