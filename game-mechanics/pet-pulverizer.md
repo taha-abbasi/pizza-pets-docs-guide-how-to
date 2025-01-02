@@ -1,5 +1,15 @@
 # 💣 The Pet Pulverizer
 
+{% hint style="danger" %}
+This page is being updated. Latest info can be found here:
+
+[https://x.com/tahaabbasi/status/1874792058650853818](https://x.com/tahaabbasi/status/1874792058650853818)
+
+Check back later today for updated info.
+{% endhint %}
+
+
+
 The **Pet Pulverizer**—a mysterious, one-time-use weapon of mass destruction—has sent shockwaves through the Pizza Pets world. Created by the enigmatic Ralf, this invention has the power to wreak havoc on the ecosystem of Pizza Pets, and its exact purpose and mechanisms remain shrouded in mystery.
 
 ***
