@@ -12,7 +12,7 @@ The **Pet Pulverizer** is a weapon created by Ralf, driven by his vendetta again
 
 1. **First Auction Complete**: The Yellow Pulverizer was auctioned and is now owned by @PipeAliens.
 2. **Upcoming Auctions**: The White Pineapple Pulverizer auction is today, with more colors to follow.
-3. **48-Block Connection**: Previous speculation linked Pulverizers to 48 blocks; however, it’s now confirmed that they detonate **72 blocks** after being triggered.
+3. **72-Block Detonation**: Pulverizers detonate **72 blocks (~12 game-hours)** after being triggered.
 
 {% hint style="warning" %}
 Stay alert: Future Pulverizers will target pets with other Pineapple Weakness colors (e.g., Green, Red, Blue). Owners must remain vigilant to protect their pets.
@@ -29,10 +29,10 @@ When a Pulverizer is triggered:
 * A pineapple icon matching the Pulverizer’s color (e.g., Yellow) will appear on all pets.
 * Notifications will be posted on X and apps like [Mind Your Milk](https://www.mindyourmilk.pizza/) will send alerts.
 
-At this stage, **do not panic** or apply Lotion immediately. Why? Because detonation doesn’t occur until **72 blocks (\~12** [**game-hours**](../resources/timeline-and-seasons.md#understanding-game-time)**)** after the trigger block.
+At this stage, **do not panic** or apply Lotion immediately. Why? Because detonation doesn’t occur until **72 blocks (~12 [game-hours](../resources/timeline-and-seasons.md#understanding-game-time))** after the trigger block.
 
 {% hint style="info" %}
-Bitcoin blocks are typically mined every 10 minutes, meaning **72 blocks** could take \~12 hours. However, block times can vary significantly, so always monitor closely. Learn more in Understanding [Game Time](../resources/timeline-and-seasons.md#understanding-game-time).
+Bitcoin blocks are typically mined every 10 minutes, meaning **72 blocks** could take ~12 hours. However, block times can vary significantly, so always monitor closely. Learn more in [Game-Time Explained](../resources/timeline-and-seasons.md#understanding-game-time).
 {% endhint %}
 
 ***
@@ -92,8 +92,6 @@ To determine your pet’s vulnerability:
 <figure><img src="../.gitbook/assets/telegram-cloud-photo-size-1-5168266054768635197-y.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
 
 ***
 
