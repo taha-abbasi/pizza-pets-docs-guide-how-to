@@ -1,90 +1,94 @@
 # 💣 The Pet Pulverizer
 
-{% hint style="danger" %}
-This page is being updated. Latest info can be found here:
+The **Pet Pulverizer**—a mysterious, one-time-use weapon of mass destruction—has moved from speculation to reality. The **Yellow Pineapple Pet Pulverizer** is now in the hands of the @PipeAliens team, and they can trigger it at any time. If you own a pet with **Yellow Pineapple Weakness**, it’s time to pay attention. With additional color pulverizers on the way, all Pizza Pets owners should prepare carefully.
 
-[https://x.com/tahaabbasi/status/1874792058650853818](https://x.com/tahaabbasi/status/1874792058650853818)
-
-Check back later today for updated info.
-{% endhint %}
-
-
-
-The **Pet Pulverizer**—a mysterious, one-time-use weapon of mass destruction—has sent shockwaves through the Pizza Pets world. Created by the enigmatic Ralf, this invention has the power to wreak havoc on the ecosystem of Pizza Pets, and its exact purpose and mechanisms remain shrouded in mystery.
-
-***
+---
 
 ## 🕵️ What We Know So Far
 
-Ralf, once an employee of Ninjalerts Corp., claims that **Pizza Pets was his idea**—stolen and repackaged by the corporation. Fueled by vengeance, Ralf has crafted the **Pet Pulverizer**, a weapon designed to exploit a backdoor in the Pizza Pets code. Here’s what we know about the Pulverizer so far:
+The **Pet Pulverizer** is a weapon created by Ralf, driven by his vendetta against Ninjalerts Corp. and the Pizza Pets ecosystem. Designed to target pets based on their **Pineapple Weakness**, it operates in two critical phases: **Trigger** and **Detonation**.
+
+### New Details:
+1. **First Auction Complete**: The Yellow Pulverizer was auctioned and is now owned by @PipeAliens.  
+2. **Upcoming Auctions**: The White Pineapple Pulverizer auction is today, with more colors to follow.  
+3. **48-Block Connection**: Previous speculation linked Pulverizers to 48 blocks; however, it’s now confirmed that they detonate **72 blocks** after being triggered.  
 
 {% hint style="warning" %}
-This is speculation based on available information and may be inaccurate. We’ve tried to be as accurate as possible, but the true details of the Pulverizer are not fully known.
+Stay alert: Future Pulverizers will target pets with other Pineapple Weakness colors (e.g., Green, Red, Blue). Owners must remain vigilant to protect their pets.
 {% endhint %}
 
-1. **One-Time Use**: Each Pet Pulverizer can be used only once by its owner.
-2. **Type-Specific Targeting**: Pulverizers seem to target pets based on their **Pineapple Weakness trait**, such as yellow, red, or green.
-3. **Exceptions**: Pets with the following characteristics are immune:
-   * **Evolution Stage**: Egg, Baby, or Immortal.
-   * **Trait**: Pineapple Weakness set to "Immune."
-4. **48 Blocks**: There’s a connection to **48 Bitcoin blocks** (about 8 hours). Whether this is the activation window or notice period remains unclear.
+---
 
-***
+## 🍕 The Pulverizer Process: Trigger and Detonation
 
-## 🍕 The Story Behind the Pulverizer
+### Trigger
+When a Pulverizer is triggered:
+- A pineapple icon matching the Pulverizer’s color (e.g., Yellow) will appear on all pets.
+- Notifications will be posted on X and apps like [Mind Your Milk](https://www.mindyourmilk.pizza/) will send alerts.
 
-Ralf’s journey is one of betrayal and revenge. After his pitch for Pizza Pets was dismissed (and allegedly stolen) by Ninjalerts Corp., Ralf vowed to take back what he believes is rightfully his. Operating from his Lunar City lair, he’s turned his heartbreak and obsession with pineapple on pizza into a vendetta.
+At this stage, **do not panic** or apply Lotion immediately. Why? Because detonation doesn’t occur until **72 blocks (~12 game-hours)** after the trigger block.
 
-In his own words, from his final journal entries:
+{% hint style="info" %}
+Bitcoin blocks are typically mined every 10 minutes, meaning **72 blocks** could take ~12 hours. However, block times can vary significantly, so always monitor closely.
+{% endhint %}
 
-> "I’ve started working on a new invention — the Pet Pulverizer. While analyzing the Pizza Pets code, I found a backdoor left by Ninjalerts Corp. It’s careless work, but it’s exactly what I need. I can exploit it to hack into every Pizza Pet and destroy them all. It’s poetic, really — they stole my idea, so I’ll take it back by burning it all down."
+---
 
-Ralf’s actions are divisive: some see him as a hero, standing up to a corporate giant, while others see him as the villain, threatening to destroy the beloved Pizza Pets.
+### Detonation
+When the Pulverizer detonates, it will kill pets without Lotion that match its Pineapple Weakness color.  
+- **Example**: The Yellow Pulverizer will kill pets with **Yellow Pineapple Weakness** unless protected with Lotion.  
+- **Safe Pets**:
+  - Pets with a Pineapple Weakness of a **different color**.  
+  - Pets with **Immunity** or in evolution stages **Egg**, **Baby**, **Child**, or **Immortal**.
 
-***
-
-## 🔍 Who Is at Risk?
-
-Not all pets are vulnerable to the Pulverizer. Here’s a breakdown of those at risk:
-
-* **At Risk**:
-  * Pets with a Pineapple Weakness matching the Pulverizer’s type (e.g., yellow, red, or green).
-  * Pets in **Child, Teen, or Adult stages** of evolution.
-* **Safe**:
-  * Pets in **Egg, Baby, or Immortal stages**.
-  * Pets with a Pineapple Weakness set to "Immune."
-
-***
+---
 
 ## 🛡️ Protecting Your Pets
 
-The only defense against the Pulverizer is **applying lotion**. Lotion protects your pets for a period of time, but the exact duration is not yet confirmed. Here’s what you need to know:
+The only way to protect vulnerable pets is by applying **Lotion**. Here’s what you need to know:
 
-1. **How to Apply Lotion**:
-   * Available on [@lifofifo](https://x.com/lifofifo)’s [feeding site](https://pets.inscribe.dev/) and will soon be enabled on the official [Pizza Pets site](https://www.pizzapets.fun/feed).
-2. **When to Apply**:
-   * Apply lotion only to pets matching the Pulverizer’s type. For example, if the Pulverizer targets yellow, lotion is needed only for pets with a **Yellow Pineapple Weakness**.
+### When and How to Apply Lotion
+1. **Wait Before Applying**: Lotion lasts for **36 blocks**, so don’t apply it immediately after the trigger block.  
+2. **Timing Recommendation**: Apply Lotion when:
+   - **40+ blocks have passed** since the trigger block.  
+   - **Detonation is ≤32 blocks away**.  
 
-***
+This ensures Lotion will last through the detonation block and provide a 4-block buffer. Avoid waiting until the last few blocks, as block times can vary, putting pets at risk.
 
-## 🤔 Unanswered Questions
+---
 
-Despite what we know, much about the Pulverizer remains unclear:
+### FAQ: Common Pulverizer Questions
 
-* **Distribution**: How will the Pulverizers be distributed? Will they go to dead pet owners, active players, or others?
-* **Activation Window**: Does the **48 blocks** (8 hours) signify the notice period or the time the Pulverizer remains active?
-* **Lotion Duration**: How long does lotion protect a pet?
+- **Can I stack Lotion?**  
+  No, Lotion cannot be stacked.  
 
-These mysteries add to the suspense, and we expect more details to emerge soon.
+- **Do I need to apply Lotion to all pets?**  
+  No, only apply Lotion to pets matching the Pineapple Weakness color of the triggered Pulverizer.  
 
-***
+- **Is my pet on LSD safe from the Pulverizer?**  
+  No, pets on LSD still require Lotion for protection.
 
-## 🐾 The Bigger Picture
+- **What happens if I give Milk to a pet?**  
+  Feeding Milk removes all active drug effects, including Lotion. If Milk is given within 36 blocks of detonation, you must reapply Lotion immediately to maintain protection.
 
-The Pet Pulverizer is more than just a weapon—it’s a wildcard in the battle between Ralf and Ninjalerts Corp. Whether you view it as a tool of justice or chaos, its impact on the Pizza Pets world cannot be overstated. One thing is clear: Ralf’s actions will leave a mark, for better or worse.
+---
 
-***
+## 🔍 How to Check Your Pet’s Pineapple Weakness
 
-## What’s Next? 🌟
+To determine your pet’s vulnerability:
+1. Open your pet’s **Stats** menu.  
+2. Look for the **Weakness** stat, which will show if your pet is vulnerable to Yellow, Green, Red, White, Blue, or Black Pineapple Weakness.
 
-Now that we’ve explored the destructive potential of The Pet Pulverizer, it’s time to shift gears and dive into **Advanced Strategies**. From mastering PEDs and SADs to protecting your pets from the Pulverizer, strategy is the key to thriving in Pizza Pets. Let’s uncover how to combine these tools for maximum impact! 🍕🐾
+---
+
+## 🐾 A Final Word on Strategy
+
+The Pet Pulverizer adds a high-stakes element to Pizza Pets, demanding strategic planning and precise timing. Ralf’s invention may feel like a villain’s move, but smart Pizza Ninjas know how to outmaneuver even the toughest challenges.
+
+With additional Pulverizers on the horizon, staying informed and prepared is key. Protect your pets, plan your Lotion usage carefully, and stay tuned for more updates as the Pulverizer saga unfolds.
+
+---
+
+## 🌟 What’s Next?
+
+Now that the Pulverizer is live, mastering your strategies will be critical. From optimizing PEDs and SADs to leveraging Lotion at the right time, the Pizza Pets world has never been more dynamic. Check out our **Advanced Strategies** section for more tips! 🍕🐾
