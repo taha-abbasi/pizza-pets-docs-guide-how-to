@@ -44,7 +44,7 @@ When the Pulverizer detonates, it will kill pets without Lotion that match its P
 * **Example**: The Yellow Pulverizer will kill pets with **Yellow Pineapple Weakness** unless protected with Lotion.
 * **Safe Pets**:
   * Pets with a Pineapple Weakness of a **different color**.
-  * Pets with **Immunity** or in evolution stages **Egg**, **Baby**, **Child**, or **Immortal**.
+  * Pets with **Immunity** or in evolution stages **Egg**, **Baby**, or **Immortal**.
 
 ***
 
