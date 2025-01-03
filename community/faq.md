@@ -168,6 +168,115 @@ However, this requires precise timing, as the transaction must be confirmed **wi
 
 ***
 
+### **Q: What happens when a Pulverizer is triggered?**
+
+**A:**\
+When a Pulverizer is triggered:
+- A **pineapple icon** matching the Pulverizer’s color (e.g., Yellow) will appear on all pets.
+- Alerts will be sent on platforms like X and apps such as [Mind Your Milk](https://www.mindyourmilk.pizza/).
+
+You don’t need to act immediately. The Pulverizer **detonates 72 blocks (~12 hours)** after the trigger block.
+
+***
+
+### **Q: Will all pets die when a Pulverizer detonates?**
+
+**A:**\
+No, only pets with the **same Pineapple Weakness color** as the triggered Pulverizer are at risk. For example:
+- A Yellow Pulverizer will kill pets with **Yellow Pineapple Weakness**, unless protected with Lotion.
+
+**Safe Pets**:
+- Pets in evolution stages **Egg**, **Baby**, or **Immortal**.
+- Pets with **Immunity**.
+- Pets with a Pineapple Weakness of a **different color**.
+
+***
+
+### **Q: How do I protect my pets from a Pulverizer?**
+
+**A:**\
+The only way to protect vulnerable pets is by applying **Lotion**. Follow these steps:
+1. **Wait Until Detonation Is ~32 Blocks Away**: Lotion lasts for **36 blocks**, so timing is critical.
+2. **Apply Lotion to Vulnerable Pets**: Only pets with the **same Pineapple Weakness color** as the Pulverizer need protection.
+
+Avoid applying Lotion too early, as its effect may wear off before the detonation block.
+
+***
+
+### **Q: What happens if I give Milk to my pet after applying Lotion?**
+
+**A:**\
+Milk removes **all active effects**, including Lotion. If you feed Milk to a pet after applying Lotion, you must reapply Lotion to protect your pet.
+
+{% hint style="warning" %}
+Be cautious when using strategies that involve PEDs like Cocaine and Steroids, as Milk will remove Lotion and leave your pet vulnerable.
+{% endhint %}
+
+***
+
+### **Q: Can I stack Lotion to extend its duration?**
+
+**A:**\
+No, Lotion cannot be stacked. Each application lasts for **36 blocks**, so plan carefully to ensure your pet remains protected through the detonation block.
+
+***
+
+### **Q: How do I check my pet’s Pineapple Weakness?**
+
+**A:**\
+To determine your pet’s vulnerability:
+1. Open your pet’s **Stats** menu.
+2. Look for the **Weakness** stat, which will show if your pet is vulnerable to Yellow, Green, Red, White, Blue, or Black Pineapple Weakness.
+
+***
+
+### **Q: How long do I have to act after a Pulverizer is triggered?**
+
+**A:**\
+The Pulverizer detonates **72 blocks (~12 hours)** after it is triggered. Monitor block progress carefully, as mining times can vary. Apply Lotion when **≤32 blocks remain** to ensure your pet is protected.
+
+{% hint style="info" %}
+Learn more about block timing in [Game-Time Explained](../resources/timeline-and-seasons.md#understanding-game-time).
+{% endhint %}
+
+***
+
+### **Q: Is a pet on LSD safe from the Pulverizer?**
+
+**A:**\
+No, pets on LSD are not immune to the Pulverizer. You must still apply Lotion to protect them, following the timing recommendations for maximum effectiveness.
+
+***
+
+### **Q: Can a Pulverizer be used more than once?**
+
+**A:**\
+Yes, Pulverizers can be used an **unlimited number of times**. However, after each use, they must go through a **Recharge Period** before they can be triggered again:
+
+| **Pulverizer Color** | **Recharge Period** |
+|-----------------------|---------------------|
+| White                | **5 Weeks**         |
+| Black & Yellow       | **6 Weeks**         |
+| Red, Green, & Blue   | **7 Weeks**         |
+
+{% hint style="info" %}
+Recharge periods are measured in **game-time** (Bitcoin blocks). Learn more about game-time mechanics in [Game-Time Explained](../resources/timeline-and-seasons.md#understanding-game-time).
+{% endhint %}
+
+***
+
+### **Q: Can I shower my pet on the same block as detonation to save it?**
+
+**A:**\
+No. A Shower cannot protect a pet from the Pulverizer. Only Lotion applied before detonation will save a vulnerable pet.
+
+***
+
+### **Q: What should I do if I miss applying Lotion before detonation?**
+
+**A:**\
+Unfortunately, if a vulnerable pet does not have Lotion applied at the detonation block, it will die. Set alerts or use tools like [Mind Your Milk](https://www.mindyourmilk.pizza/) to ensure you apply Lotion in time.
+
 ## 🌟 Need More Help?
 
 For additional support:
