@@ -32,7 +32,9 @@ When a Pulverizer is triggered:
 At this stage, **do not panic** or apply Lotion immediately. Why? Because detonation doesn’t occur until **72 blocks (~12 [game-hours](../resources/timeline-and-seasons.md#understanding-game-time))** after the trigger block.
 
 {% hint style="info" %}
-Bitcoin blocks are typically mined every 10 minutes, meaning **72 blocks** could take ~12 hours. However, block times can vary significantly, so always monitor closely. Learn more in [Game-Time Explained](../resources/timeline-and-seasons.md#understanding-game-time).
+Based on recent data gathered by [@gm7t2](https://x.com/gm7t2):
+- Over the last 15,000 blocks, the **quickest 72 blocks** have taken **7.7 hours**, while the **slowest** have taken **17 hours**.
+- Most commonly, 72 blocks take around **12 hours**, but always monitor block times closely as they can vary significantly.
 {% endhint %}
 
 ***
@@ -45,6 +47,39 @@ When the Pulverizer detonates, it will kill pets without Lotion that match its P
 * **Safe Pets**:
   * Pets with a Pineapple Weakness of a **different color**.
   * Pets with **Immunity** or in evolution stages **Egg**, **Baby**, or **Immortal**.
+
+***
+
+## ♻️ Pulverizer Recharge Periods
+
+While Pulverizers can be used an **unlimited number of times**, they must go through a **Recharge Period** after each use before they can be triggered again. The recharge time varies by Pulverizer color:
+
+| **Pulverizer Color** | **Recharge Period** |
+|-----------------------|---------------------|
+| White                | **5 Weeks**         |
+| Black & Yellow       | **6 Weeks**         |
+| Red, Green, & Blue   | **7 Weeks**         |
+
+{% hint style="info" %}
+Recharge periods are measured in **game-time** (Bitcoin blocks). Learn more about game-time mechanics in [Game-Time Explained](../resources/timeline-and-seasons.md#understanding-game-time).
+{% endhint %}
+
+***
+
+## 🔔 Notification Tools
+
+Stay ahead of Pulverizer triggers and detonations by using these community tools:
+
+1. **Mind Your Milk App**:  
+   - [Mind Your Milk](https://www.mindyourmilk.pizza/) helps you track key events, including Pulverizer timing and Lotion application reminders.  
+
+2. **Pizza Pets Notifier Discord Channel**:  
+   - Join the dedicated **Pizza Pets Notifier Channel** for real-time updates and alerts:  
+   [https://discord.gg/YnbXTNx8Ea](https://discord.gg/YnbXTNx8Ea) (by Moo).  
+
+{% hint style="info" %}
+Using multiple tools ensures you won’t miss critical updates, especially during high-stakes Pulverizer events.
+{% endhint %}
 
 ***
 
