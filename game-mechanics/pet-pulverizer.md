@@ -71,7 +71,7 @@ Recharge periods are measured in **game-time** (Bitcoin blocks). Learn more abou
 Stay ahead of Pulverizer triggers and detonations by using these community tools:
 
 1. **Mind Your Milk App**:  
-   - [Mind Your Milk](https://www.mindyourmilk.pizza/) helps you track key events, including Pulverizer timing and Lotion application reminders.  
+   - [Mind Your Milk](https://www.mindyourmilk.pizza/) helps you track key events, including Pulverizer timing and Lotion application reminders. Created by the amazing [@0xBGoat](https://x.com/0xBGoat).  
 
 2. **Pizza Pets Notifier Discord Channel**:  
    - Join the dedicated **Pizza Pets Notifier Channel** for real-time updates and alerts:  
