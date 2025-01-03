@@ -1,6 +1,6 @@
 # 💣 The Pet Pulverizer
 
-The **Pet Pulverizer**—a mysterious, one-time-use weapon of mass destruction—has moved from speculation to reality. The **Yellow Pineapple Pet Pulverizer** is now in the hands of the @PipeAliens team, and they can trigger it at any time. If you own a pet with **Yellow Pineapple Weakness**, it’s time to pay attention. With additional color pulverizers on the way, all Pizza Pets owners should prepare carefully.
+The **Pet Pulverizer**—a mysterious, one-time-use weapon of mass destruction—has moved from speculation to reality. The **Yellow Pineapple Pet Pulverizer** is now in the hands of the [@PipeAliens](https://x.com/PipeAliens) team, and they can trigger it at any time. If you own a pet with **Yellow Pineapple Weakness**, it’s time to pay attention. With additional color pulverizers on the way, all Pizza Pets owners should prepare carefully.
 
 ***
 
