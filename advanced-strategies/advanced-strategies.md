@@ -39,7 +39,7 @@ By combining **Cocaine** and **Steroids**, you can temporarily bypass heart loss
 
 ***
 
-### **Cost Analysis**
+## **Cost Analysis**
 
 This strategy requires more resources than the standard process of feeding **Pizza** or **Beer** and occasionally using **Shower**. It’s best suited for players aiming to expedite evolution in high-stakes scenarios.
 
@@ -87,9 +87,9 @@ $$BtcPriceInSats = BtcPriceInUSD × 100,000,000$$
 
 #### Calculation:
 
-1. BTC Price in Sats: \
+1. BTC Price in Sats:\
    $$BtcPriceInSats = 94,700 × 100,000,000 = 9,470,000,000,000 sats$$
-2. Cost per Cycle (USD): \
+2. Cost per Cycle (USD):\
    $$CostPerCycle (USD) = (61,743 / 9,470,000,000,000) × 100,000,000 = 58.47 USD$$
 
 Thus, the cost per feeding cycle at a **fee rate of 5 sats/vByte** is **$58.47**.
@@ -110,23 +110,23 @@ $$Total Cost (USD) = 58.47 × 26 = 1,520.22 USD$$
 
 ***
 
-### Step 4: Summary Table
+### Step 4: Cost Summary MCS (Milk + Cocaine + Steroids) Strategy
 
-| **Parameter**               | **Value**                              |
-|-----------------------------|----------------------------------------|
-| Total Blocks                | 10,080                                 |
-| Blocks per Feed Cycle       | 400                                    |
-| Total Feeds Needed          | 26                                     |
-| Cost per Transaction (sats) | 20,581                                 |
-| Feed Cycle Cost (3 tx)      | 61,743 sats ($58.47 at $94,700 BTC)    |
-| Total Cost for Immortal     | 1,520.22 USD                           |
+| **Parameter**               | **Value**                           |
+| --------------------------- | ----------------------------------- |
+| Total Blocks                | 10,080                              |
+| Blocks per Feed Cycle       | 400                                 |
+| Total Feeds Needed          | 26                                  |
+| Cost per Transaction (sats) | 20,581                              |
+| Feed Cycle Cost (3 tx)      | 61,743 sats ($58.47 at $94,700 BTC) |
+| Total Cost for Immortal     | 1,520.22 USD                        |
 
 ***
 
 ### Key Points
 
 1. **Each feeding cycle involves three transactions (Milk, Cocaine, Steroids) for all 11 pets.**
-2. **One feeding cycle costs 61,743 sats, or $58.47 at the current Bitcoin price of $94,700.**
+2. **One feeding cycle costs 61,743 sats, or $58.47 at fee rate of 5 sats per vByte and at the current Bitcoin price of $94,700.**
 3. **A total of 26 feeding cycles is required, resulting in a final cost of $1,520.22.**
 
 This cost matrix provides clarity for planning the MCS feeding strategy. Adjustments can be made if Bitcoin price or transaction fees fluctuate. Always ensure you have sufficient sats before starting the evolution process!
