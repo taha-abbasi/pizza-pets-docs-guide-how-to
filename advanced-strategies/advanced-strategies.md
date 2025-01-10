@@ -44,69 +44,15 @@ This strategy requires more resources than the standard process of feeding **Piz
 
 ### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy
 
-- **Total Blocks**: 10,080
-- **Blocks per Feed Cycle**: 400
-- **Total Feeds Needed**: 26
+- **TotalBlocks**: 10,080
+- **BlocksPerFeedCycle**: 400
+- **TotalFeedsNeeded**: 26
 - **Number of Transactions per Feed Cycle**: 3
-- **Cost per Transaction (sats)**: 20,581
+- **CostPerTransaction (sats)**: 20,581
 - **Feed Cycle Cost (sats)**: 61,743 (or $58.47 at $94,700 BTC price)
 - **Total Cost for Immortal**: 1,520.22 USD
 
 > For detailed calculations, refer to the [Cost Formula Reference](#cost-formula-reference).
-
----
-
-## **Cost Formula Reference**
-
-This section explains the standard formulas used to calculate feeding costs, block cycles, and other game mechanics.
-
-### Formula 1: Total Feeds Needed
-$$Total Feeds Needed = ⌈ Total Blocks / Blocks per Feed Cycle ⌉$$
-
-### Formula 2: Cost per Cycle (sats)
-$$Cost per Cycle (sats) = Cost per Transaction (sats) × Number of Transactions per Cycle$$
-
-### Formula 3: Cost per Cycle (USD)
-$$Cost per Cycle (USD) = (Cost per Cycle (sats) / BTC Price in Sats) × 100,000,000$$
-
-### Formula 4: Total Cost (USD)
-$$Total Cost (USD) = Cost per Cycle (USD) × Total Feeds Needed$$
-
-### Parameters
-- **BTC Price in Sats** = $$BTC Price in USD × 100,000,000$$
-- **Fee Rate** = The rate in sats/vByte used for transactions.
-
----
-
-### Detailed Breakdown for MCS Strategy
-
-#### Step 1: Determining the Number of Feeding Cycles
-
-To determine how many feeding cycles are required:
-
-$$Total Feeds Needed = ⌈ Total Blocks / Blocks per Feed Cycle ⌉$$
-
-**Calculation**:  
-$$Total Feeds Needed = ⌈ 10,080 / 400 ⌉ = 26$$
-
-#### Step 2: Cost per Feeding Cycle
-
-Each feed cycle involves **3 transactions** (Milk, Cocaine, and Steroids) to feed **11 pets**:
-
-$$Cost per Cycle (sats) = 20,581 × 3 = 61,743 \, \text{sats}$$
-
-At the current Bitcoin price of **$94,700**, the dollar value for one cycle is:
-
-1. BTC Price in Sats:  
-   $$BTC Price in Sats = 94,700 × 100,000,000 = 9,470,000,000,000 \, \text{sats}$$
-2. Cost per Cycle (USD):  
-   $$Cost per Cycle (USD) = (61,743 / 9,470,000,000,000) × 100,000,000 = 58.47 \, \text{USD}$$
-
-#### Step 3: Total Cost for Immortal Evolution
-
-To calculate the total cost of evolving a pet to the Immortal stage:
-
-$$Total Cost (USD) = 58.47 × 26 = 1,520.22 \, \text{USD}$$
 
 ---
 
@@ -119,6 +65,60 @@ Coming soon.
 ## 🐎 Strategy: Ketamine and DMT
 
 Coming soon.
+
+---
+
+## **Cost Formula Reference**
+
+This section explains the standard formulas used to calculate feeding costs, block cycles, and other game mechanics.
+
+### Formula 1: TotalFeedsNeeded
+$$TotalFeedsNeeded = ⌈ TotalBlocks / BlocksPerFeedCycle ⌉$$
+
+### Formula 2: CostPerCycle (sats)
+$$CostPerCycle (sats) = CostPerTransaction (sats) × NumberOfTransactionsPerCycle$$
+
+### Formula 3: CostPerCycle (USD)
+$$CostPerCycle (USD) = (CostPerCycle (sats) / BtcPriceInSats) × 100,000,000$$
+
+### Formula 4: TotalCost (USD)
+$$TotalCost (USD) = CostPerCycle (USD) × TotalFeedsNeeded$$
+
+### Parameters
+- **BtcPriceInSats** = $$BTC Price in USD × 100,000,000$$
+- **Fee Rate** = The rate in sats/vByte used for transactions.
+
+---
+
+### Detailed Breakdown for MCS Strategy
+
+#### Step 1: Determining the Number of Feeding Cycles
+
+To determine how many feeding cycles are required:
+
+$$TotalFeedsNeeded = ⌈ TotalBlocks / BlocksPerFeedCycle ⌉$$
+
+**Calculation**:  
+$$TotalFeedsNeeded = ⌈ 10,080 / 400 ⌉ = 26$$
+
+#### Step 2: Cost per Feeding Cycle
+
+Each feed cycle involves **3 transactions** (Milk, Cocaine, and Steroids) to feed **11 pets**:
+
+$$CostPerCycle (sats) = 20,581 × 3 = 61,743 \, \text{sats}$$
+
+At the current Bitcoin price of **$94,700**, the dollar value for one cycle is:
+
+1. BtcPriceInSats:  
+   $$BtcPriceInSats = 94,700 × 100,000,000 = 9,470,000,000,000 \, \text{sats}$$
+2. CostPerCycle (USD):  
+   $$CostPerCycle (USD) = (61,743 / 9,470,000,000,000) × 100,000,000 = 58.47 \, \text{USD}$$
+
+#### Step 3: Total Cost for Immortal Evolution
+
+To calculate the total cost of evolving a pet to the Immortal stage:
+
+$$TotalCost (USD) = 58.47 × 26 = 1,520.22 \, \text{USD}$$
 
 ---
 
