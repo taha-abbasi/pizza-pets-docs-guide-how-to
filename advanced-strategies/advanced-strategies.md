@@ -42,7 +42,7 @@ This reduces evolution time by 1/3rd compared to default gameplay but is costly 
 
 This strategy requires more resources than the standard process of feeding **Pizza** or **Beer** and occasionally using **Shower**. It’s best suited for players aiming to expedite evolution in high-stakes scenarios.
 
-### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy
+### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy (11 Pets)
 
 | **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
 |--------------------|---------------------------------|------------------|----------------------------|----------------------|
