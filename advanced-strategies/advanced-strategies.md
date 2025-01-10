@@ -44,12 +44,12 @@ This strategy requires more resources than the standard process of feeding **Piz
 
 ### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy
 
-| **Stage**         | **Blocks Needed** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
-|--------------------|-------------------|------------------|----------------------------|----------------------|
-| Baby to Immortal   | 10,080           | 26               | 61,743                     | 1,520.22            |
-| Child to Immortal  | 9,072            | 23               | 61,743                     | 1,345.89            |
-| Teen to Immortal   | 7,056            | 18               | 61,743                     | 1,052.46            |
-| Adult to Immortal  | 4,032            | 11               | 61,743                     | 643.21              |
+| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
+|--------------------|---------------------------------|------------------|----------------------------|----------------------|
+| Baby to Immortal   | 6,720                          | 17               | 61,743                     | 994.04              |
+| Child to Immortal  | 6,048                          | 16               | 61,743                     | 935.52              |
+| Teen to Immortal   | 4,704                          | 12               | 61,743                     | 701.64              |
+| Adult to Immortal  | 2,688                          | 7                | 61,743                     | 409.29              |
 
 > For detailed calculations, refer to the [Cost Formula Reference](#cost-formula-reference).
 
@@ -97,16 +97,16 @@ $$TotalCost (USD) = CostPerCycle (USD) × TotalFeedsNeeded$$
 $$TotalFeedsNeeded = ⌈ TotalBlocks / BlocksPerFeedCycle ⌉$$
 
 - **Baby to Immortal**:  
-  $$TotalFeedsNeeded = ⌈ 10,080 / 400 ⌉ = 26$$
+  $$TotalFeedsNeeded = ⌈ 6,720 / 400 ⌉ = 17$$
 
 - **Child to Immortal**:  
-  $$TotalFeedsNeeded = ⌈ 9,072 / 400 ⌉ = 23$$
+  $$TotalFeedsNeeded = ⌈ 6,048 / 400 ⌉ = 16$$
 
 - **Teen to Immortal**:  
-  $$TotalFeedsNeeded = ⌈ 7,056 / 400 ⌉ = 18$$
+  $$TotalFeedsNeeded = ⌈ 4,704 / 400 ⌉ = 12$$
 
 - **Adult to Immortal**:  
-  $$TotalFeedsNeeded = ⌈ 4,032 / 400 ⌉ = 11$$
+  $$TotalFeedsNeeded = ⌈ 2,688 / 400 ⌉ = 7$$
 
 #### Step 2: Cost per Feeding Cycle
 
@@ -129,16 +129,16 @@ At the current Bitcoin price of **$94,700**, the dollar value for one cycle is:
 $$TotalCost (USD) = CostPerCycle (USD) × TotalFeedsNeeded$$
 
 - **Baby to Immortal**:  
-  $$TotalCost (USD) = 58.47 × 26 = 1,520.22 \, \text{USD}$$
+  $$TotalCost (USD) = 58.47 × 17 = 994.04 \, \text{USD}$$
 
 - **Child to Immortal**:  
-  $$TotalCost (USD) = 58.47 × 23 = 1,345.89 \, \text{USD}$$
+  $$TotalCost (USD) = 58.47 × 16 = 935.52 \, \text{USD}$$
 
 - **Teen to Immortal**:  
-  $$TotalCost (USD) = 58.47 × 18 = 1,052.46 \, \text{USD}$$
+  $$TotalCost (USD) = 58.47 × 12 = 701.64 \, \text{USD}$$
 
 - **Adult to Immortal**:  
-  $$TotalCost (USD) = 58.47 × 11 = 643.21 \, \text{USD}$$
+  $$TotalCost (USD) = 58.47 × 7 = 409.29 \, \text{USD}$$
 
 ---
 
