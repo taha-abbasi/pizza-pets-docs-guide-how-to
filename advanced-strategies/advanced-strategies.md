@@ -114,11 +114,40 @@ $$Total Cost (USD) = 58.47 × 26 = 1,520.22 USD$$
 
 ### Step 4: Summary Table
 
-|      |      |      |
-| ---- | ---- | ---- |
-| test |      |      |
-|      | test | test |
-|      |      |      |
+<table>
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Total Blocks</td>
+<td>10,080</td>
+</tr>
+<tr>
+<td>Blocks per Feed Cycle</td>
+<td>400</td>
+</tr>
+<tr>
+<td>Total Feeds Needed</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Cost per Transaction (sats)</td>
+<td>20,581</td>
+</tr>
+<tr>
+<td>Feed Cycle Cost (3 tx)</td>
+<td>61,743 sats ($58.47 at $94,700 BTC)</td>
+</tr>
+<tr>
+<td>Total Cost for Immortal</td>
+<td>1,520.22 USD</td>
+</tr>
+</tbody>
+</table>
 
 ***
 
