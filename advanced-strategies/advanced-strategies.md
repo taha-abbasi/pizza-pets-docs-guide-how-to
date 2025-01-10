@@ -114,7 +114,11 @@ $$Total Cost (USD) = 58.47 × 26 = 1,520.22 USD$$
 
 ### Step 4: Summary Table
 
-
+|      |      |      |
+| ---- | ---- | ---- |
+| test |      |      |
+|      | test | test |
+|      |      |      |
 
 ***
 
@@ -127,12 +131,6 @@ $$Total Cost (USD) = 58.47 × 26 = 1,520.22 USD$$
 This cost matrix provides clarity for planning the MCS feeding strategy. Adjustments can be made if Bitcoin price or transaction fees fluctuate. Always ensure you have sufficient sats before starting the evolution process!
 
 </details>
-
-|      |      |      |
-| ---- | ---- | ---- |
-| test |      |      |
-|      | test | test |
-|      |      |      |
 
 
 
