@@ -43,9 +43,7 @@ By combining **Cocaine** and **Steroids**, you can temporarily bypass heart loss
 
 This strategy requires more resources than the standard process of feeding **Pizza** or **Beer** and occasionally using **Shower**. It’s best suited for players aiming to expedite evolution in high-stakes scenarios.
 
-<details>
-
-<summary>Cost Matrix For Using MCS Strategy - Baby to Immortal</summary>
+### Cost Matrix For Using MCS Strategy - Baby to Immortal
 
 This cost matrix calculates the cost of evolving your Pizza Pets from **Baby** to **Immortal** using the **Milk + Cocaine + Steroids (MCS)** strategy. The evolution process spans **10,080 blocks**, and the feeding cycle needs to be repeated every **400 blocks**.
 
@@ -114,40 +112,14 @@ $$Total Cost (USD) = 58.47 × 26 = 1,520.22 USD$$
 
 ### Step 4: Summary Table
 
-<table>
-<thead>
-<tr>
-<th>Parameter</th>
-<th>Value</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Total Blocks</td>
-<td>10,080</td>
-</tr>
-<tr>
-<td>Blocks per Feed Cycle</td>
-<td>400</td>
-</tr>
-<tr>
-<td>Total Feeds Needed</td>
-<td>26</td>
-</tr>
-<tr>
-<td>Cost per Transaction (sats)</td>
-<td>20,581</td>
-</tr>
-<tr>
-<td>Feed Cycle Cost (3 tx)</td>
-<td>61,743 sats ($58.47 at $94,700 BTC)</td>
-</tr>
-<tr>
-<td>Total Cost for Immortal</td>
-<td>1,520.22 USD</td>
-</tr>
-</tbody>
-</table>
+| **Parameter**               | **Value**                              |
+|-----------------------------|----------------------------------------|
+| Total Blocks                | 10,080                                 |
+| Blocks per Feed Cycle       | 400                                    |
+| Total Feeds Needed          | 26                                     |
+| Cost per Transaction (sats) | 20,581                                 |
+| Feed Cycle Cost (3 tx)      | 61,743 sats ($58.47 at $94,700 BTC)    |
+| Total Cost for Immortal     | 1,520.22 USD                           |
 
 ***
 
@@ -158,10 +130,6 @@ $$Total Cost (USD) = 58.47 × 26 = 1,520.22 USD$$
 3. **A total of 26 feeding cycles is required, resulting in a final cost of $1,520.22.**
 
 This cost matrix provides clarity for planning the MCS feeding strategy. Adjustments can be made if Bitcoin price or transaction fees fluctuate. Always ensure you have sufficient sats before starting the evolution process!
-
-</details>
-
-
 
 ***
 
