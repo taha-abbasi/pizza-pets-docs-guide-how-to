@@ -60,12 +60,11 @@ The data is organized in tabs by feeding sites and access levels
 | Teen to Immortal  | 4,704                           | 12               | 18,393                     | 220.72               |
 | Adult to Immortal | 2,688                           | 7                | 18,393                     | 128.75               |
 {% endtab %}
-
-{% tab title="Lifo's inscribe.dev" %}
+{% tab title="Lifo Inscribe_Dev" %}
 
 {% endtab %}
 
-{% tab title="Lifo's Inscribe.dev (10 Wiz)" %}
+{% tab title="Lifo Inscribe_Dev w 10 Wiz" %}
 
 {% endtab %}
 {% endtabs %}
@@ -83,11 +82,11 @@ The data is organized in tabs by feeding sites and access levels
 | Teen to Immortal  | 4,704                           | 12               | 61,743                     | 701.64               |
 | Adult to Immortal | 2,688                           | 7                | 61,743                     | 409.29               |
 {% endtab %}
-{% tab title="Lifo's inscribe.dev" %}
+{% tab title="Lifo Inscribe_Dev" %}
 
 {% endtab %}
 
-{% tab title="Lifo's Inscribe.dev (10 Wiz)" %}
+{% tab title="Lifo Inscribe_Dev w 10 Wiz" %}
 
 {% endtab %}
 {% endtabs %}
