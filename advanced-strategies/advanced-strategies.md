@@ -73,10 +73,10 @@ The data is organized in tabs by feeding sites and access levels
 {% tab title="Lifo Inscribe_Dev w 10 Wiz" %}
 | **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
 | ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
-| Baby to Immortal  | 6,720                           | 17               | 1,803                      | 0.00030651           | 29.14                |
-| Child to Immortal | 6,048                           | 16               | 1,803                      | 0.00028848           | 27.44                |
-| Teen to Immortal  | 4,704                           | 12               | 1,803                      | 0.00021636           | 20.62                |
-| Adult to Immortal | 2,688                           | 7                | 1,803                      | 0.00012621           | 12.03                |
+| Baby to Immortal  | 6,720                           | 17               | 4,309                      | 0.00074353           | 70.64                |
+| Child to Immortal | 6,048                           | 16               | 4,309                      | 0.00068849           | 65.38                |
+| Teen to Immortal  | 4,704                           | 12               | 4,309                      | 0.00051637           | 49.03                |
+| Adult to Immortal | 2,688                           | 7                | 4,309                      | 0.00030163           | 28.62                |
 {% endtab %}
 {% endtabs %}
 
@@ -104,10 +104,10 @@ The data is organized in tabs by feeding sites and access levels
 {% tab title="Lifo Inscribe_Dev w 10 Wiz" %}
 | **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
 | ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
-| Baby to Immortal  | 6,720                           | 17               | 2,263                      | 0.00038471           | 36.58                |
-| Child to Immortal | 6,048                           | 16               | 2,263                      | 0.00036208           | 34.45                |
-| Teen to Immortal  | 4,704                           | 12               | 2,263                      | 0.00027156           | 25.85                |
-| Adult to Immortal | 2,688                           | 7                | 2,263                      | 0.00015841           | 15.09                |
+| Baby to Immortal  | 6,720                           | 17               | 5,689                      | 0.00098091           | 93.20                |
+| Child to Immortal | 6,048                           | 16               | 5,689                      | 0.00091024           | 86.51                |
+| Teen to Immortal  | 4,704                           | 12               | 5,689                      | 0.00068268           | 64.89                |
+| Adult to Immortal | 2,688                           | 7                | 5,689                      | 0.00039013           | 37.09                |
 {% endtab %}
 {% endtabs %}
 ***
@@ -123,8 +123,8 @@ The data is organized in tabs by feeding sites and access levels
      - **1 Pet Feed Transaction**: Costs **4,928 sats** at a fee rate of **5 sats/vByte**.  
      - **11 Pets Feed Transaction**: Costs **14,383 sats** at a fee rate of **5 sats/vByte**.  
    - **Lifo Inscribe_Dev w 10 Wizards**:  
-     - **1 Pet Feed Transaction**: Costs **1,803 sats** at a fee rate of **5 sats/vByte**.  
-     - **11 Pets Feed Transaction**: Costs **2,263 sats** at a fee rate of **5 sats/vByte**.
+     - **1 Pet Feed Transaction**: Costs **4,309 sats** for **3 transactions**.  
+     - **11 Pets Feed Transaction**: Costs **5,689 sats** for **3 transactions**.
 
 2. **Cost Efficiency for More Pets**  
    Feeding more pets in a single transaction significantly reduces the per-pet cost. For example:  
@@ -135,8 +135,8 @@ The data is organized in tabs by feeding sites and access levels
      - **1 Pet**: 4,928 sats.  
      - **11 Pets**: 14,383 sats (**1,308 sats per pet**).  
    - On **Lifo Inscribe_Dev w 10 Wizards**:  
-     - **1 Pet**: 1,803 sats.  
-     - **11 Pets**: 2,263 sats (**206 sats per pet**).
+     - **1 Pet**: 4,309 sats.  
+     - **11 Pets**: 5,689 sats (**517 sats per pet**).
 
 3. **Scaling Costs**  
    Feeding strategies become more cost-efficient as the number of pets fed per transaction increases. This can save players significant resources over multiple feed cycles.
@@ -239,9 +239,9 @@ Each feed cycle involves **3 transactions** (Milk, Cocaine, and Steroids):
 
 3. **Lifo Inscribe_Dev w 10 Wiz**:
    - **11 Pets**:  
-     $$CostPerCycle (sats) = 2,263 × 3 = 6,789 \, \text{sats}$$  
+     $$CostPerCycle (sats) = 5,689 \, \text{sats}$$  
    - **1 Pet**:  
-     $$CostPerCycle (sats) = 1,803 × 3 = 5,409 \, \text{sats}$$
+     $$CostPerCycle (sats) = 4,309 \, \text{sats}$$
 
 #### Step 3: Total Cost for Immortal Evolution
 
@@ -262,9 +262,9 @@ $$TotalCost (USD) = CostPerCycle (USD) × TotalFeedsNeeded$$
 
 3. **Lifo Inscribe_Dev w 10 Wiz**:
    - **11 Pets - Baby to Immortal**:  
-     $$TotalCost (USD) = 6.43 × 17 = 109.31 \, \text{USD}$$  
+     $$TotalCost (USD) = 5.09 × 17 = 86.53 \, \text{USD}$$  
    - **1 Pet - Baby to Immortal**:  
-     $$TotalCost (USD) = 5.13 × 17 = 87.21 \, \text{USD}$$
+     $$TotalCost (USD) = 3.86 × 17 = 65.62 \, \text{USD}$$
 
 ***
 
