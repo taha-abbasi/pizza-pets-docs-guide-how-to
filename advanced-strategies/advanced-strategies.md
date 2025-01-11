@@ -105,14 +105,31 @@ The data is organized in tabs by feeding sites and access levels
 
 ### Key Points
 
-1. **Cost Efficiency for More Pets**\
-   Feeding more pets in a single transaction significantly reduces the per-pet cost. For example:
-   * **1 Pet Feed Transaction**: Costs **6,131 sats** for **Pizza Pets** or **1,803 sats** for **Lifo Inscribe\_Dev w 10 Wiz**.
-   * **11 Pets Feed Transaction**: Costs **20,581 sats** for **Pizza Pets** or **2,263 sats** for **Lifo Inscribe\_Dev w 10 Wiz**, reducing the per-pet cost significantly.
-2. **Scaling Costs**\
+1. **Fee Rates Across Sites**  
+   Feeding costs vary significantly between the Pizza Pets official site and Lifo Inscribe_Dev with or without wizards. Here’s a breakdown of feed transaction costs:  
+   - **Pizza Pets Official Site**:  
+     - **1 Pet Feed Transaction**: Costs **6,131 sats** at a fee rate of **5 sats/vByte**.  
+     - **11 Pets Feed Transaction**: Costs **20,581 sats** at a fee rate of **5 sats/vByte**.  
+   - **Lifo Inscribe_Dev**:  
+     *(Data Pending)*  
+   - **Lifo Inscribe_Dev w 10 Wizards**:  
+     - **1 Pet Feed Transaction**: Costs **1,803 sats** at a fee rate of **5 sats/vByte**.  
+     - **11 Pets Feed Transaction**: Costs **2,263 sats** at a fee rate of **5 sats/vByte**.
+
+2. **Cost Efficiency for More Pets**  
+   Feeding more pets in a single transaction significantly reduces the per-pet cost. For example:  
+   - On **Pizza Pets Official Site**:  
+     - **1 Pet**: 6,131 sats.  
+     - **11 Pets**: 20,581 sats (**1,871 sats per pet**).  
+   - On **Lifo Inscribe_Dev w 10 Wizards**:  
+     - **1 Pet**: 1,803 sats.  
+     - **11 Pets**: 2,263 sats (**206 sats per pet**).
+
+3. **Scaling Costs**  
    Feeding strategies become more cost-efficient as the number of pets fed per transaction increases. This can save players significant resources over multiple feed cycles.
-3. **Total Costs for Different Stages**\
-   Use the tables above to compare costs for evolving 1 pet versus 11 pets across different stages.
+
+4. **Total Costs for Different Stages**  
+   Use the tables above to compare costs for evolving 1 pet versus 11 pets across different stages. Note that fee rates vary depending on the site and setup.
 
 > For detailed calculations, refer to the [Cost Formula Reference](advanced-strategies.md#cost-formula-reference).
 
