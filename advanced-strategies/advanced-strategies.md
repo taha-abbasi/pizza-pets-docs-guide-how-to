@@ -74,13 +74,23 @@ The data is organized in tabs by feeding sites and access levels
 
 #### Immortal Evolution Cost For 11 Pets
 
+{% tabs %}
+{% tab title="Pizza Pets" %}
 | **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
 | ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- |
 | Baby to Immortal  | 6,720                           | 17               | 61,743                     | 994.04               |
 | Child to Immortal | 6,048                           | 16               | 61,743                     | 935.52               |
 | Teen to Immortal  | 4,704                           | 12               | 61,743                     | 701.64               |
 | Adult to Immortal | 2,688                           | 7                | 61,743                     | 409.29               |
+{% endtab %}
+{% tab title="Lifo's inscribe.dev" %}
 
+{% endtab %}
+
+{% tab title="Lifo's Inscribe.dev (10 Wiz)" %}
+
+{% endtab %}
+{% endtabs %}
 ***
 
 ### Key Points
