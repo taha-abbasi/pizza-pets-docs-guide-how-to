@@ -60,7 +60,6 @@ The data is organized in tabs by feeding sites and access levels
 | Teen to Immortal  | 4,704                           | 12               | 18,393                     | 0.00233315           | 220.72               |
 | Adult to Immortal | 2,688                           | 7                | 18,393                     | 0.00136121           | 128.75               |
 {% endtab %}
-
 {% tab title="Lifo Inscribe_Dev" %}
 | **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
 | ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
@@ -69,7 +68,6 @@ The data is organized in tabs by feeding sites and access levels
 | Teen to Immortal  | 4,704                           | 12               | 4,928                      | 0.00059136           | 56.82                |
 | Adult to Immortal | 2,688                           | 7                | 4,928                      | 0.00034576           | 33.24                |
 {% endtab %}
-
 {% tab title="Lifo Inscribe_Dev w 10 Wiz" %}
 | **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
 | ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
@@ -91,7 +89,6 @@ The data is organized in tabs by feeding sites and access levels
 | Teen to Immortal  | 4,704                           | 12               | 61,743                     | 0.00805762           | 701.64               |
 | Adult to Immortal | 2,688                           | 7                | 61,743                     | 0.00432322           | 409.29               |
 {% endtab %}
-
 {% tab title="Lifo Inscribe_Dev" %}
 | **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
 | ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
@@ -100,7 +97,6 @@ The data is organized in tabs by feeding sites and access levels
 | Teen to Immortal  | 4,704                           | 12               | 14,383                     | 0.00172716           | 157.50               |
 | Adult to Immortal | 2,688                           | 7                | 14,383                     | 0.00100681           | 91.87                |
 {% endtab %}
-
 {% tab title="Lifo Inscribe_Dev w 10 Wiz" %}
 | **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
 | ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
