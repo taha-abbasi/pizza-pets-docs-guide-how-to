@@ -79,6 +79,30 @@ This strategy requires more resources than the standard process of feeding **Piz
 
 ---
 
+## 🌀 Strategy: DMT Your Way to 11 Immortals
+
+### **Overview**
+
+Coming soon.
+
+---
+
+## 🐎 Strategy: Ketamine and DMT
+
+### **Overview**
+
+Coming soon.
+
+---
+
+## 🍄 Strategy: Psychedelic Bliss for Pizza Pets
+
+### **Overview**
+
+Coming soon.
+
+---
+
 ## **Cost Formula Reference**
 
 This section explains the standard formulas used to calculate feeding costs, block cycles, and other game mechanics.
