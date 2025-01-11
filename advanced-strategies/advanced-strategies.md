@@ -53,12 +53,12 @@ The data is organized in tabs by feeding sites and access levels
 
 {% tabs %}
 {% tab title="Pizza Pets" %}
-| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
-| ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- |
-| Baby to Immortal  | 6,720                           | 17               | 18,393                     | 296.29               |
-| Child to Immortal | 6,048                           | 16               | 18,393                     | 293.04               |
-| Teen to Immortal  | 4,704                           | 12               | 18,393                     | 220.72               |
-| Adult to Immortal | 2,688                           | 7                | 18,393                     | 128.75               |
+| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
+| ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
+| Baby to Immortal  | 6,720                           | 17               | 18,393                     | 0.00311924           | 296.29               |
+| Child to Immortal | 6,048                           | 16               | 18,393                     | 0.00309478           | 293.04               |
+| Teen to Immortal  | 4,704                           | 12               | 18,393                     | 0.00233315           | 220.72               |
+| Adult to Immortal | 2,688                           | 7                | 18,393                     | 0.00136121           | 128.75               |
 {% endtab %}
 {% tab title="Lifo Inscribe_Dev" %}
 
@@ -75,12 +75,12 @@ The data is organized in tabs by feeding sites and access levels
 
 {% tabs %}
 {% tab title="Pizza Pets" %}
-| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
-| ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- |
-| Baby to Immortal  | 6,720                           | 17               | 61,743                     | 994.04               |
-| Child to Immortal | 6,048                           | 16               | 61,743                     | 935.52               |
-| Teen to Immortal  | 4,704                           | 12               | 61,743                     | 701.64               |
-| Adult to Immortal | 2,688                           | 7                | 61,743                     | 409.29               |
+| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
+| ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
+| Baby to Immortal  | 6,720                           | 17               | 61,743                     | 0.01090549           | 994.04               |
+| Child to Immortal | 6,048                           | 16               | 61,743                     | 0.01073498           | 935.52               |
+| Teen to Immortal  | 4,704                           | 12               | 61,743                     | 0.00805762           | 701.64               |
+| Adult to Immortal | 2,688                           | 7                | 61,743                     | 0.00432322           | 409.29               |
 {% endtab %}
 {% tab title="Lifo Inscribe_Dev" %}
 
@@ -150,6 +150,10 @@ $$CostPerCycle (USD) = (CostPerCycle (sats) / BtcPriceInSats) × 100,000,000$$
 ### Formula 4: TotalCost (USD)
 
 $$TotalCost (USD) = CostPerCycle (USD) × TotalFeedsNeeded$$
+
+### Formula 5: TotalCost (BTC)
+
+$$TotalCost (BTC) = TotalCost (sats) / 100,000,000$$
 
 ### Parameters
 
