@@ -65,7 +65,12 @@ The data is organized in tabs by feeding sites and access levels
 {% endtab %}
 
 {% tab title="Lifo Inscribe_Dev w 10 Wiz" %}
-
+| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
+| ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
+| Baby to Immortal  | 6,720                           | 17               | 1,803                      | 0.00030651           | 29.14                |
+| Child to Immortal | 6,048                           | 16               | 1,803                      | 0.00028848           | 27.44                |
+| Teen to Immortal  | 4,704                           | 12               | 1,803                      | 0.00021636           | 20.62                |
+| Adult to Immortal | 2,688                           | 7                | 1,803                      | 0.00012621           | 12.03                |
 {% endtab %}
 {% endtabs %}
 
@@ -87,7 +92,12 @@ The data is organized in tabs by feeding sites and access levels
 {% endtab %}
 
 {% tab title="Lifo Inscribe_Dev w 10 Wiz" %}
-
+| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (BTC)** | **Total Cost (USD)** |
+| ----------------- | ------------------------------- | ---------------- | -------------------------- | -------------------- | -------------------- |
+| Baby to Immortal  | 6,720                           | 17               | 2,263                      | 0.00038471           | 36.58                |
+| Child to Immortal | 6,048                           | 16               | 2,263                      | 0.00036208           | 34.45                |
+| Teen to Immortal  | 4,704                           | 12               | 2,263                      | 0.00027156           | 25.85                |
+| Adult to Immortal | 2,688                           | 7                | 2,263                      | 0.00015841           | 15.09                |
 {% endtab %}
 {% endtabs %}
 ***
@@ -96,8 +106,8 @@ The data is organized in tabs by feeding sites and access levels
 
 1. **Cost Efficiency for More Pets**\
    Feeding more pets in a single transaction significantly reduces the per-pet cost. For example:
-   * **1 Pet Feed Transaction**: Costs **6,131 sats**.
-   * **11 Pets Feed Transaction**: Costs **20,581 sats**, reducing the per-pet cost to **1,871 sats**.
+   * **1 Pet Feed Transaction**: Costs **6,131 sats** for **Pizza Pets** or **1,803 sats** for **Lifo Inscribe_Dev w 10 Wiz**.
+   * **11 Pets Feed Transaction**: Costs **20,581 sats** for **Pizza Pets** or **2,263 sats** for **Lifo Inscribe_Dev w 10 Wiz**, reducing the per-pet cost significantly.
 2. **Scaling Costs**\
    Feeding strategies become more cost-efficient as the number of pets fed per transaction increases. This can save players significant resources over multiple feed cycles.
 3. **Total Costs for Different Stages**\
