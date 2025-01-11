@@ -51,19 +51,18 @@ This strategy requires more resources than the standard process of feeding **Piz
 | Teen to Immortal   | 4,704                          | 12               | 61,743                     | 701.64              |
 | Adult to Immortal  | 2,688                          | 7                | 61,743                     | 409.29              |
 
+---
+
+### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy (1 Pet)
+
+| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
+|--------------------|---------------------------------|------------------|----------------------------|----------------------|
+| Baby to Immortal   | 6,720                          | 17               | 18,393                     | 296.29              |
+| Child to Immortal  | 6,048                          | 16               | 18,393                     | 293.04              |
+| Teen to Immortal   | 4,704                          | 12               | 18,393                     | 220.72              |
+| Adult to Immortal  | 2,688                          | 7                | 18,393                     | 128.75              |
+
 > For detailed calculations, refer to the [Cost Formula Reference](#cost-formula-reference).
-
----
-
-## 🌀 Strategy: DMT Your Way to 11 Immortals
-
-Coming soon.
-
----
-
-## 🐎 Strategy: Ketamine and DMT
-
-Coming soon.
 
 ---
 
@@ -110,35 +109,23 @@ $$TotalFeedsNeeded = ⌈ TotalBlocks / BlocksPerFeedCycle ⌉$$
 
 #### Step 2: Cost per Feeding Cycle
 
-Each feed cycle involves **3 transactions** (Milk, Cocaine, and Steroids) to feed **11 pets**:
+Each feed cycle involves **3 transactions** (Milk, Cocaine, and Steroids):
 
 **Formula**:  
-$$CostPerCycle (sats) = 20,581 × 3 = 61,743 \, \text{sats}$$
-
-At the current Bitcoin price of **$94,700**, the dollar value for one cycle is:
-
-1. **BtcPriceInSats**:  
-   $$BtcPriceInSats = 94,700 × 100,000,000 = 9,470,000,000,000 \, \text{sats}$$
-
-2. **CostPerCycle (USD)**:  
-   $$CostPerCycle (USD) = (61,743 / 9,470,000,000,000) × 100,000,000 = 58.47 \, \text{USD}$$
+- For **11 Pets**:  
+  $$CostPerCycle (sats) = 20,581 × 3 = 61,743 \, \text{sats}$$
+- For **1 Pet**:  
+  $$CostPerCycle (sats) = 6,131 × 3 = 18,393 \, \text{sats}$$
 
 #### Step 3: Total Cost for Immortal Evolution
 
 **Formula**:  
 $$TotalCost (USD) = CostPerCycle (USD) × TotalFeedsNeeded$$
 
-- **Baby to Immortal**:  
+- **11 Pets - Baby to Immortal**:  
   $$TotalCost (USD) = 58.47 × 17 = 994.04 \, \text{USD}$$
-
-- **Child to Immortal**:  
-  $$TotalCost (USD) = 58.47 × 16 = 935.52 \, \text{USD}$$
-
-- **Teen to Immortal**:  
-  $$TotalCost (USD) = 58.47 × 12 = 701.64 \, \text{USD}$$
-
-- **Adult to Immortal**:  
-  $$TotalCost (USD) = 58.47 × 7 = 409.29 \, \text{USD}$$
+- **1 Pet - Baby to Immortal**:  
+  $$TotalCost (USD) = 17.45 × 17 = 296.29 \, \text{USD}$$
 
 ---
 
