@@ -43,7 +43,7 @@ This reduces evolution time by 1/3rd compared to default gameplay but is costly 
 
 This strategy requires more resources than the standard process of feeding **Pizza** or **Beer** and occasionally using **Shower**. It’s best suited for players aiming to expedite evolution in high-stakes scenarios.
 
-### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy&#x20;
+### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy
 
 {% hint style="info" %}
 The data is organized in tabs by feeding sites and access levels
@@ -60,6 +60,7 @@ The data is organized in tabs by feeding sites and access levels
 | Teen to Immortal  | 4,704                           | 12               | 18,393                     | 0.00233315           | 220.72               |
 | Adult to Immortal | 2,688                           | 7                | 18,393                     | 0.00136121           | 128.75               |
 {% endtab %}
+
 {% tab title="Lifo Inscribe_Dev" %}
 
 {% endtab %}
@@ -74,8 +75,6 @@ The data is organized in tabs by feeding sites and access levels
 {% endtab %}
 {% endtabs %}
 
-
-
 #### Immortal Evolution Cost For 11 Pets
 
 {% tabs %}
@@ -87,6 +86,7 @@ The data is organized in tabs by feeding sites and access levels
 | Teen to Immortal  | 4,704                           | 12               | 61,743                     | 0.00805762           | 701.64               |
 | Adult to Immortal | 2,688                           | 7                | 61,743                     | 0.00432322           | 409.29               |
 {% endtab %}
+
 {% tab title="Lifo Inscribe_Dev" %}
 
 {% endtab %}
@@ -100,14 +100,15 @@ The data is organized in tabs by feeding sites and access levels
 | Adult to Immortal | 2,688                           | 7                | 2,263                      | 0.00015841           | 15.09                |
 {% endtab %}
 {% endtabs %}
+
 ***
 
 ### Key Points
 
 1. **Cost Efficiency for More Pets**\
    Feeding more pets in a single transaction significantly reduces the per-pet cost. For example:
-   * **1 Pet Feed Transaction**: Costs **6,131 sats** for **Pizza Pets** or **1,803 sats** for **Lifo Inscribe_Dev w 10 Wiz**.
-   * **11 Pets Feed Transaction**: Costs **20,581 sats** for **Pizza Pets** or **2,263 sats** for **Lifo Inscribe_Dev w 10 Wiz**, reducing the per-pet cost significantly.
+   * **1 Pet Feed Transaction**: Costs **6,131 sats** for **Pizza Pets** or **1,803 sats** for **Lifo Inscribe\_Dev w 10 Wiz**.
+   * **11 Pets Feed Transaction**: Costs **20,581 sats** for **Pizza Pets** or **2,263 sats** for **Lifo Inscribe\_Dev w 10 Wiz**, reducing the per-pet cost significantly.
 2. **Scaling Costs**\
    Feeding strategies become more cost-efficient as the number of pets fed per transaction increases. This can save players significant resources over multiple feed cycles.
 3. **Total Costs for Different Stages**\
@@ -215,8 +216,8 @@ $$TotalCost (USD) = CostPerCycle (USD) × TotalFeedsNeeded$$
 
 If this guide helps you, consider supporting us! Donations cover hosting costs and keep our content fresh and relevant. Your generosity powers the continued evolution of Pizza Pets and ensures this guide stays awesome. Details can be found on the donations page.
 
-{% content-ref url="resources/donations.md" %}
-[donations.md](resources/donations.md)
+{% content-ref url="../resources/donations.md" %}
+[donations.md](../resources/donations.md)
 {% endcontent-ref %}
 
 ***
