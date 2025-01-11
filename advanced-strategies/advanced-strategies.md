@@ -42,6 +42,15 @@ This reduces evolution time by 1/3rd compared to default gameplay but is costly 
 
 This strategy requires more resources than the standard process of feeding **Pizza** or **Beer** and occasionally using **Shower**. It’s best suited for players aiming to expedite evolution in high-stakes scenarios.
 
+### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy (1 Pet)
+
+| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
+|--------------------|---------------------------------|------------------|----------------------------|----------------------|
+| Baby to Immortal   | 6,720                          | 17               | 18,393                     | 296.29              |
+| Child to Immortal  | 6,048                          | 16               | 18,393                     | 293.04              |
+| Teen to Immortal   | 4,704                          | 12               | 18,393                     | 220.72              |
+| Adult to Immortal  | 2,688                          | 7                | 18,393                     | 128.75              |
+
 ### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy (11 Pets)
 
 | **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
@@ -53,14 +62,18 @@ This strategy requires more resources than the standard process of feeding **Piz
 
 ---
 
-### Cost Summary for MCS (Milk + Cocaine + Steroids) Strategy (1 Pet)
+### Key Points
 
-| **Stage**         | **Blocks Needed (1.5x Faster)** | **Feeds Needed** | **Feed Cycle Cost (sats)** | **Total Cost (USD)** |
-|--------------------|---------------------------------|------------------|----------------------------|----------------------|
-| Baby to Immortal   | 6,720                          | 17               | 18,393                     | 296.29              |
-| Child to Immortal  | 6,048                          | 16               | 18,393                     | 293.04              |
-| Teen to Immortal   | 4,704                          | 12               | 18,393                     | 220.72              |
-| Adult to Immortal  | 2,688                          | 7                | 18,393                     | 128.75              |
+1. **Cost Efficiency for More Pets**  
+   Feeding more pets in a single transaction significantly reduces the per-pet cost. For example:  
+   - **1 Pet Feed Transaction**: Costs **6,131 sats**.  
+   - **11 Pets Feed Transaction**: Costs **20,581 sats**, reducing the per-pet cost to **1,871 sats**.
+
+2. **Scaling Costs**  
+   Feeding strategies become more cost-efficient as the number of pets fed per transaction increases. This can save players significant resources over multiple feed cycles.
+
+3. **Total Costs for Different Stages**  
+   Use the tables above to compare costs for evolving 1 pet versus 11 pets across different stages.
 
 > For detailed calculations, refer to the [Cost Formula Reference](#cost-formula-reference).
 
